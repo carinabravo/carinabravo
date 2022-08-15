@@ -1,6 +1,6 @@
 👋 Hi, I’m @carinabravo  
-💻 I’m currently learning fullstack development at CoderHouse
-<!--- - 💞️ I’m looking to collaborate on ... --->
+💻 I’m currently studying fullstack development at CoderHouse
+<!--- - 💞️ I’m looking to codllaborate on ... --->
 <!--- - 👀 I’m interested in ... --->
 
 <!---
