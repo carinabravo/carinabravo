@@ -1,8 +1,7 @@
- Hi👋 I’m Carina Bravo  
- I’m currently studying fullstack development 💻 at CoderHouse
+ Hola👋 mi nombre es Carina Bravo  
+  
+Me encuentro realizando la Carrera de Programación full stack 💻 en CoderHouse la cual contempla conocimientos en Desarrollo Web, JavaScript, React Js y Programación Backend. 
+Actualmente tengo certificación en Desarrollo Web y un proyecto realizado para el mismo.
+Me considero una persona responsable, autodidacta, proactiva, creativa y muy organizada. Con gran capacidad para trabajar en equipo, bajo presión y con actitud de servicio. Siempre dispuesta a aprender como también a cumplir mis objetivos personales y laborales.
 
 
-<!---
-carinabravo/carinabravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
