@@ -17,12 +17,6 @@
 - Bootstrap
 - Diseño de cuadricula CSS
 - Hoja de estilos de Cascada
-- Desarrollo Web
-
-
-
-
-
 
 
 ![1655331256105](https://user-images.githubusercontent.com/54654136/186049433-e75e8d57-7462-49a1-9eb6-a87ba8ba43da.jpg)
