@@ -4,7 +4,7 @@
 #### Actualmente cuento con una certificación en Desarrollo Web y un proyecto realizado para el mismo.
 #### Me considero una persona responsable, autodidacta, proactiva, creativa y muy organizada. Con gran capacidad para trabajar en equipo, bajo presión y con actitud de servicio. Siempre dispuesta a aprender como también a cumplir mis objetivos personales y laborales.
 
-#### Conocimientos y aptitudes:
+#### Conocimientos y aptitudes :
 
 - Git
 - Css Flexbox
