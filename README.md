@@ -1,4 +1,4 @@
-# Hola 👋 soy Carina Bravo  
+# Hola 👋 mi nombre es Carina Bravo  
   
 #### Me encuentro realizando la Carrera de Programación full stack 👩🏻‍💻 en CoderHouse la cual contempla conocimientos en Desarrollo Web, JavaScript, React Js y Programación Backend. 
 
