@@ -9,7 +9,8 @@
 
 #### Actualmente cuento con una certificación en Desarrollo Web y un proyecto realizado para la misma. 
 https://carinabravo.github.io/centro-de-estetica_bravo/
-#### Me considero una persona responsable, soy autodidacta, proactiva, creativa y muy organizada. Tengo gran capacidad para trabajar en equipo, bajo presión y con actitud de servicio. Siempre dispuesta a aprender como también a cumplir metas personales y laborales.
+#### Me considero una persona responsable, soy autodidacta, proactiva, creativa y bastante organizada. Tengo la capacidad para trabajar en equipo, con una actitud de servicio, si surge algún inconveniente.
+Siempre estoy dispuesta a aprender como también a cumplir metas personales y laborales.
 
 #### Conocimientos y aptitudes :
 
