@@ -12,7 +12,7 @@
 #### Me considero una persona muy responsable, soy autodidacta, proactiva, creativa y bastante organizada. Tengo la capacidad para trabajar en equipo y desenvolverme sin problemas, con una actitud de servicio. Siempre dispuesta a aprender como también a cumplir metas personales y laborales.
 
 
-### Desarrollo Web : https://carinabravo.github.io/centro-de-estetica_bravo/
+#### Desarrollo Web : https://carinabravo.github.io/centro-de-estetica_bravo/
 
 #### Conocimientos y aptitudes en Desarrollo web :
 
@@ -39,6 +39,9 @@
 - Aplicar los conocimientos del lenguaje a otras librerías y frameworks JavaScript (React, Node, VueJS, etc).
 - Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
  
+
+
+
 
 
 
