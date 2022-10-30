@@ -9,7 +9,7 @@
 
 #### Cuento con certificaciones en Desarrollo Web y JavaScript, cada una acompañada de un proyecto final realizado para las mismas, los cuales se citan a continuación. 
 
-#### Me considero una persona muy responsable, soy autodidacta, proactiva, creativa y bastante organizada. Tengo la capacidad para trabajar en equipo y desenvolverme sin problemas, con una actitud de servicio. Siempre dispuesta a aprender como también a cumplir metas personales y laborales.
+#### Me considero una persona muy responsable, soy autodidacta, proactiva, creativa y bastante organizada. Tengo la capacidad para trabajar en equipo y desenvolverme sin problemas con una actitud de servicio. Siempre dispuesta a aprender como también a cumplir metas personales y laborales.
 
 
 #### Desarrollo Web : https://carinabravo.github.io/centro-de-estetica_bravo/
