@@ -40,7 +40,7 @@
 - Aplicar los conocimientos del lenguaje a otras librerías y frameworks JavaScript (React, Node, VueJS, etc).
 - Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
  
-#### React Js:
+#### React Js: https://spiffy-dango-80fc19.netlify.app
 
 #### Conocimientos y aptitudes en React Js:
 
