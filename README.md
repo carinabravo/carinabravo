@@ -5,20 +5,20 @@
 - Desarrollo Web
 - JavaScript 
 - React Js
-- Photoshop e illustrator (estudio extra)
 - Programación Backend
+
+#### Curso de Diseño Web (extra):
+- Photoshop e illustrator.
 
 #### Cuento con certificaciones en Desarrollo Web, JavaScript y React Js, cada una acompañada de un proyecto final realizado para las mismas, los cuales se citan a continuación.
 
 #### Desarrollo Web : https://carinabravo.github.io/centro-de-estetica_bravo/
 
-#### Conocimientos y aptitudes en Desarrollo web :
+#### Conocimientos y aptitudes en Desarrollo y Diseño web :
 
 - Git
 - Css Flexbox
 - Html 5
-- Diseño de Logotipos
-- Adobe Photoshop
 - Alojamiento Web
 - Servicios de Hosting
 - Lenguaje SASS
