@@ -1,21 +1,21 @@
 # ¡Hola 👋 mi nombre es Carina Bravo y te doy la bienvenida a mi perfil!  
   
-#### Actualmente estoy realizando la carrera de Full Stack Developer en Coderhouse, la cual contempla conocimientos en :
+#### Actualmente estoy realizando la carrera 👩🏻‍💻 de Full Stack Developer en Coderhouse, la cual contempla conocimientos en :
 
 - Desarrollo Web
 - JavaScript 
 - React Js
 - Programación Backend
 
-#### En paralelo estoy realizando el curso de Diseño Web, que contempla conocimientos en:
+#### En paralelo estoy realizando el curso 👩🏻‍💻 de Diseño Web, que contempla conocimientos en:
 - Adobe Photoshop.
 - Adobe illustrator.
 
-#### Cuento con certificaciones en Desarrollo Web, JavaScript y React Js, cada una acompañada de un proyecto final realizado para las mismas, los cuales se citan a continuación.
+#### Cuento con certificaciones 🏅 en Desarrollo Web, JavaScript y React Js, cada una acompañada de un proyecto final realizado para las mismas, los cuales se citan a continuación.
 
 #### Desarrollo Web : https://carinabravo.github.io/centro-de-estetica_bravo/
 
-#### Conocimientos y aptitudes en Desarrollo y Diseño web :
+#### 📚 Conocimientos y aptitudes en Desarrollo y Diseño web :
 
 - Git
 - Css Flexbox
@@ -29,7 +29,7 @@
 
 #### JavaScript: https://carinabravo.github.io/Salon-de-eventos-Tiare/html/index
 
-#### Conocimientos y aptitudes en JavaScript :
+#### 📚 Conocimientos y aptitudes en JavaScript :
 
 - Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
 - Crear paginas y/o secciones web interactivas con JavaScript.
@@ -40,7 +40,7 @@
  
 #### React Js: https://spiffy-dango-80fc19.netlify.app
 
-#### Conocimientos y aptitudes en React Js:
+#### 📚 Conocimientos y aptitudes en React Js:
 
 - Programar por componentes mediante JavaScript, Js, ES6.
 - Aplicación del manejo de rutas utilizando Firebase.
