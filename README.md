@@ -1,14 +1,15 @@
 # ¡Hola 👋 mi nombre es Carina Bravo y te doy la bienvenida a mi perfil!  
   
-#### Actualmente estoy realizando la Carrera de Full Stack Developer en Coderhouse, la cual contempla conocimientos en :
+#### Actualmente estoy realizando la carrera de Full Stack Developer en Coderhouse, la cual contempla conocimientos en :
 
 - Desarrollo Web
 - JavaScript 
 - React Js
 - Programación Backend
 
-#### Curso de Diseño Web (extra):
-- Photoshop e illustrator.
+#### En paralelo estoy realizando el curso de Diseño Web, que contempla conocimientos en:
+- Adobe Photoshop.
+- Adobe illustrator.
 
 #### Cuento con certificaciones en Desarrollo Web, JavaScript y React Js, cada una acompañada de un proyecto final realizado para las mismas, los cuales se citan a continuación.
 
