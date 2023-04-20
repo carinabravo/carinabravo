@@ -1,4 +1,4 @@
-# ¡Hola 👋 mi nombre es Carina Bravo y te doy la bienvenida a mi perfil!  
+## ¡Hola 👋 mi nombre es Carina Bravo y te doy la bienvenida a mi perfil!  
   
 #### Actualmente estoy realizando la carrera 👩🏻‍💻 de Full Stack Developer en Coderhouse, la cual contempla conocimientos en :
 
@@ -7,9 +7,7 @@
 - React Js
 - Programación Backend
 
-#### En paralelo estoy realizando el curso 👩🏻‍💻 de Diseño Web, que contempla conocimientos en:
-- Adobe Photoshop.
-- Adobe illustrator.
+#### En paralelo estoy realizando el curso 👩🏻‍💻 de Adobe Photoshop e Illustrator.
 
 #### Cuento con certificaciones 🏅 en Desarrollo Web, JavaScript y React Js, cada una acompañada de un proyecto final realizado para las mismas, los cuales se citan a continuación.
 
