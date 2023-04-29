@@ -11,7 +11,7 @@
 
 #### Cuento con certificaciones 🏅 en Desarrollo Web, JavaScript y React Js, cada una acompañada de un proyecto final realizado para las mismas, los cuales se citan a continuación.
 
-#### Desarrollo Web https://carinabravo.github.io/centro-de-estetica_bravo/
+#### Desarrollo Web: https://carinabravo.github.io/centro-de-estetica_bravo/
 
 #### 📚 Conocimientos y aptitudes en Desarrollo y Diseño web :
 
@@ -25,7 +25,7 @@
 - Diseño de cuadricula CSS
 - Hoja de estilos de Cascada
 
-#### JavaScript https://carinabravo.github.io/Salon-de-eventos-Tiare/html/index
+#### JavaScript: https://carinabravo.github.io/Salon-de-eventos-Tiare/html/index
 
 #### 📚 Conocimientos y aptitudes en JavaScript :
 
@@ -36,7 +36,7 @@
 - Aplicar los conocimientos del lenguaje a otras librerías y frameworks JavaScript (React, Node, VueJS, etc).
 - Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
  
-#### React Js https://spiffy-dango-80fc19.netlify.app
+#### React Js: https://spiffy-dango-80fc19.netlify.app
 
 #### 📚 Conocimientos y aptitudes en React Js:
 
