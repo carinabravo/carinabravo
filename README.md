@@ -71,9 +71,7 @@
 
 ✔ Desarrollo web
   
-#### Cada uno con sus correspondientes certificaciones 🏅 y acompañados de un proyecto final, de los cuales se detallan a continuación:
-
-#### https://www.behance.net/carinabravo
+#### Actualmente cuento con la certificación 🏅 del curso de Photoshop e Illustrator y con un proyecto final que se encuentra en: https://www.behance.net/carinabravo 
 
 #### Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
