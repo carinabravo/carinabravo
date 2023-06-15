@@ -61,7 +61,7 @@
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js
 
 
-### Actualmente me encuentro realizando la Carrera de Desarrollo UX/UI 👩🏻‍💻 en Coderhouse, la cual se encuentra conformada por los siguientes cursos:
+### Además, me encuentro realizando la Carrera de Desarrollo UX/UI 👩🏻‍💻 en Coderhouse, la cual se encuentra conformada por los siguientes cursos:
 
 ✔ Photoshop e Illustrator
 
