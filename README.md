@@ -37,28 +37,28 @@
 
 #### 📚 Conocimientos y aptitudes en JavaScript :
 
-✔ Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript
+✔ Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
 
-✔ Crear paginas y/o secciones web interactivas con JavaScript
+✔ Crear paginas y/o secciones web interactivas con JavaScript.
 
-✔ Determinar medio y formato de almacenamiento de datos generados por el usuario
+✔ Determinar medio y formato de almacenamiento de datos generados por el usuario.
 
-✔ Construir soluciones cuyo frontend se comunica con el backend usando AJAX
+✔ Construir soluciones cuyo frontend se comunica con el backend usando AJAX.
 
-✔ Aplicar los conocimientos del lenguaje a otras librerías y frameworks JavaScript (React, Node, VueJS, etc)
+✔ Aplicar los conocimientos del lenguaje a otras librerías y frameworks JavaScript (React, Node, VueJS, etc).
 
-✔ Comprender paradigmas y patrones de programación empleandos en el desarrollo web
+✔ Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
 
  
 #### React Js: https://spiffy-dango-80fc19.netlify.app
 
 #### 📚 Conocimientos y aptitudes en React Js:
 
-✔ Programar por componentes mediante JavaScript, Js, ES6
+✔ Programar por componentes mediante JavaScript, Js, ES6.
 
-✔ Aplicación del manejo de rutas utilizando Firebase
+✔ Aplicación del manejo de rutas utilizando Firebase.
 
-✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js
+✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
 
 
 ### Además, me encuentro realizando la Carrera de Desarrollo UX/UI 👩🏻‍💻 en Coderhouse, la cual se encuentra conformada por los siguientes cursos:
@@ -71,21 +71,21 @@
 
 ✔ Desarrollo web
   
-#### Actualmente cuento con la certificación 🏅 del curso de Photoshop e Illustrator y con un proyecto final que se encuentra en: https://www.behance.net/carinabravo 
+#### Actualmente cuento con la certificación 🏅 del curso de Photoshop e Illustrator y con un proyecto final que se puede visualizar en: https://www.behance.net/carinabravo 
 
 #### Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
 #### 📚 Conocimientos y aptitudes en Photoshop e Illustrator:
 
-✔ Interpretar un manual de marca
+✔ Interpretar un manual de marca.
 
-✔ Conceptos básicos y avanzados de diseño digital
+✔ Conceptos básicos y avanzados de diseño digital.
 
-✔ Edición, composición y corrección fotográfica
+✔ Edición, composición y corrección fotográfica.
 
-✔ Diseño de logotipos
+✔ Diseño de logotipos.
 
-✔ Branding 
+✔ Branding (diseño de marca).
 
 
 
