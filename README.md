@@ -1,4 +1,4 @@
-# ¡Hola 👋 mi nombre es Carina Bravo y te doy la bienvenida a mi perfil!  
+# ¡Hola 👋 te doy la bienvenida a mi perfil!  
 
 ### Actualmente soy certificada 🏅 de la Carrera de Desarrollo Frontend React 👩🏻‍💻 realizada en Coderhouse, la cual se encuentra conformada por los siguientes cursos:
 
