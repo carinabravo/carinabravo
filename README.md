@@ -59,19 +59,8 @@
 ✔ Aplicación del manejo de rutas utilizando Firebase.
 
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
-
-
-### Además, me encuentro realizando la Carrera de Desarrollo UX/UI 👩🏻‍💻 en Coderhouse, la cual se encuentra conformada por los siguientes cursos:
-
-✔ Photoshop e Illustrator
-
-✔ Diseño UX/UI
-
-✔ Diseño UX/UI Avanzado
-
-✔ Desarrollo web
   
-#### Actualmente cuento con la certificación 🏅 del curso de Photoshop e Illustrator y con un proyecto final que se puede visualizar en: https://www.behance.net/carinabravo 
+#### Además cuento con la certificación 🏅 del curso de Photoshop e Illustrator y con un proyecto final que se puede visualizar en: https://www.behance.net/carinabravo 
 
 #### Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
