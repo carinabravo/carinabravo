@@ -60,7 +60,7 @@
 
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
   
-#### Además cuento con una certificación 🏅 en Photoshop e Illustrator, en donde realicé como proyecto final un Branding, el cuaL se puede visualizar en: https://www.behance.net/carinabravo 
+#### Además cuento con una certificación 🏅 en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cuaL se puede visualizar en: https://www.behance.net/carinabravo 
 
 #### Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
