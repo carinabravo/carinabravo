@@ -78,7 +78,7 @@
 
 ### Proyectos:
 
-#### ⏰ Pomodoro timer: https://dynamic-rabanadas-b33097.netlify.app/
+#### ⏰ Pomodoro timer: pomodoro-timer-1224.netlify.app
 
 
 
