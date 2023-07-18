@@ -76,10 +76,11 @@
 
 ✔ Branding (diseño de marca).
 
-### Proyectos:
+### Proyectos extras:
 
-#### ⏰ Pomodoro timer: [pomodoro-timer-1224.netlify.app](https://pomodoro-timer-1224.netlify.app) ✔ Aplicación web.
+✔ Aplicación web.
 
+#### ⏰ Pomodoro timer: [pomodoro-timer-1224.netlify.app](https://pomodoro-timer-1224.netlify.app) 
 
 
 
