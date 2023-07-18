@@ -80,7 +80,7 @@
 
 ✔ Aplicación web.
 
-#### ⏰ Pomodoro timer: [pomodoro-timer-1224.netlify.app](https://pomodoro-timer-1224.netlify.app) 
+#### ⏰ Pomodoro timer: https://pomodoro-timer-25515.netlify.app
 
 
 
