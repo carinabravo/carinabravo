@@ -10,7 +10,7 @@
 
 #### Cada uno con sus correspondientes certificaciones 🏅 y acompañados de un proyecto final, de los cuales se detallan a continuación:
 
-#### Desarrollo Web: https://carinabravo.github.io/centro-de-estetica_bravo/
+#### Desarrollo Web: https://centro-de-estetica-0101.netlify.app
 
 #### 📚 Conocimientos y aptitudes en Desarrollo :
 
