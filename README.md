@@ -78,9 +78,7 @@
 
 ### Proyectos:
 
-#### ⏰ Pomodoro timer: [pomodoro-timer-1224.netlify.app](https://pomodoro-timer-1224.netlify.app) 
-
-✔ Aplicación web.
+#### ⏰ Pomodoro timer: [pomodoro-timer-1224.netlify.app](https://pomodoro-timer-1224.netlify.app) ✔ Aplicación web.
 
 
 
