@@ -50,7 +50,7 @@
 ✔ Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
 
  
-#### React Js: https://spiffy-dango-80fc19.netlify.app
+#### React Js:[ https://spiffy-dango-80fc19.netlify.app](https://tienda-de-arte-33.netlify.app/)
 
 #### 📚 Conocimientos y aptitudes en React Js:
 
