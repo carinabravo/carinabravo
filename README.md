@@ -76,7 +76,7 @@
 
 ✔ Branding (diseño de marca).
 
-### Proyectos extras:
+### Proyectos:
 
 #### ⏰ Pomodoro timer:
 
