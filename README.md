@@ -78,7 +78,7 @@
 
 ### Proyectos extras:
 
-#### Pomodoro timer:
+#### ⏰ Pomodoro timer:
 
 
 
