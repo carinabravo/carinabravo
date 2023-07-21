@@ -12,7 +12,7 @@
 
 #### Desarrollo Web: https://centro-de-estetica-0101.netlify.app
 
-#### 📚 Conocimientos y aptitudes en Desarrollo :
+#### 📚 Conocimientos y aptitudes en Desarrollo web :
 
 ✔ Git
 
