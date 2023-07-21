@@ -10,7 +10,7 @@
 
 #### Cada uno con sus correspondientes certificaciones 🏅 y acompañados de un proyecto final, de los cuales se detallan a continuación:
 
-#### Desarrollo Web: https://centro-de-estetica-0101.netlify.app
+#### Desarrollo Web: https://carinabravo.github.io/centro-de-estetica_bravo/
 
 #### 📚 Conocimientos y aptitudes en Desarrollo web :
 
@@ -50,7 +50,7 @@
 ✔ Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
 
  
-#### React Js: https://tienda-de-arte-33.netlify.app/
+#### React Js: https://carinabravo.github.io/tienda-de-arte/
 
 #### 📚 Conocimientos y aptitudes en React Js:
 
@@ -80,7 +80,7 @@
 
 ✔ Aplicación web.
 
-#### ⏰ Pomodoro timer: https://pomodoro-timer-25515.netlify.app
+#### ⏰ Pomodoro timer: https://carinabravo.github.io/pomodoro-timer/
 
 
 
