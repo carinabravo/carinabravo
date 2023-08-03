@@ -10,7 +10,7 @@
 
 #### Cada uno con sus correspondientes certificaciones 🏅 y acompañados de un proyecto final, de los cuales se detallan a continuación:
 
-#### Desarrollo Web: https: https:
+#### Desarrollo Web: https: https://centro-de-medicina-estetica.netlify.app
 
 #### 📚 Conocimientos y aptitudes en Desarrollo web :
 
@@ -33,7 +33,7 @@
 ✔ Hoja de estilos de Cascada
 
 
-#### JavaScript: https: https://salon-de-eventos-tiare.netlify.app
+#### JavaScript: https: https://salon-de-eventos.netlify.app
 #### 📚 Conocimientos y aptitudes en JavaScript :
 
 ✔ Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
@@ -79,7 +79,7 @@
 
 ✔ Aplicación web.
 
-#### ⏰ Pomodoro timer: https://pomodoro-timer-25515.netlify.app
+#### ⏰ Pomodoro timer: https://pomodoro-timer-24.netlify.app
 
 
 
