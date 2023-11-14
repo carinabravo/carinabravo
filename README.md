@@ -74,7 +74,7 @@
 
 ✔ Branding (diseño de marca).
 
-### Actualmente, me encuentro realizando el curso de Angular 👩🏻‍💻 en Coderhouse. 
+#### Actualmente, me encuentro cursando Angular 👩🏻‍💻 en Coderhouse. 
 
 ### Proyectos extras:
 
