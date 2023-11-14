@@ -32,7 +32,6 @@
 
 ✔ Hoja de estilos de Cascada
 
-
 #### JavaScript: https: https://salon-de-eventos.netlify.app
 #### 📚 Conocimientos y aptitudes en JavaScript :
 
