@@ -54,6 +54,8 @@
 ✔ Aplicación web.
 
 #### ⏰ Pomodoro timer: https://pomodoro-timer-24.netlify.app
+
+
 #### 🔵 React Js: https://tienda-de-arte.netlify.app
 
 
@@ -68,7 +70,7 @@
   
 #### Además cuento con una certificación 🏅 en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
 
-#### Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
+#### 🔵 Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
 #### 📚 Conocimientos y aptitudes en Photoshop e Illustrator:
 
@@ -84,6 +86,8 @@
 
 
 #### Actualmente cuento con una certificación 🏅 en Testing QA Manual, en donde realicé un review completo de la página web https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas:
+
+#### 🔵 Testing QA Manual:
 
 ✔ Casos de pruebas.
 
