@@ -1,6 +1,6 @@
 # ¡Bienvenido/a 👋 a mi perfil profesional!   
 
-### Estoy certificada 🏅 en la Carrera de Desarrollo Frontend React en Coderhouse,  la cual se encuentra conformada por una serie de cursos especializados en:
+### Estoy certificada 🏅 en la Carrera de Desarrollo Frontend React en Coderhouse, la cual se encuentra conformada por una serie de cursos especializados en:
 
 ✔ Desarrollo Web
 
@@ -10,9 +10,10 @@
 
 #### Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación:
 
+
 #### Desarrollo Web: https: https://centro-de-medicina-estetica.netlify.app
 
-#### 📚 Conocimientos y aptitudes en Desarrollo web :
+#### 📚 Conocimientos y aptitudes en Desarrollo web:
 
 ✔ Git
 
@@ -32,6 +33,7 @@
 
 ✔ Hoja de estilos de Cascada
 
+
 #### JavaScript: https: https://salon-de-eventos.netlify.app
 #### 📚 Conocimientos y aptitudes en JavaScript :
 
@@ -47,8 +49,14 @@
 
 ✔ Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
 
- 
+
+ ### Proyecto extra:
+
+✔ Aplicación web.
+
+#### ⏰ Pomodoro timer: https://pomodoro-timer-24.netlify.app
 #### React Js: https://tienda-de-arte.netlify.app
+
 
 #### 📚 Conocimientos y aptitudes en React Js:
 
@@ -57,8 +65,9 @@
 ✔ Aplicación del manejo de rutas utilizando Firebase.
 
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
+
   
-#### Además cuento con una certificación 🏅 en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
+#### Cuento con una certificación 🏅 en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
 
 #### Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
@@ -74,14 +83,26 @@
 
 ✔ Branding (diseño de marca).
 
-### Actualmente, me encuentro realizando el curso de Testing QA Manual en Coderhouse, ampliando mis conocimientos en el área.
 
-### Proyectos extras:
+#### Actualmente cuento con una certificación 🏅 en Testing QA Manual, en donde realicé un review completo de la página web https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas:
 
-✔ Aplicación web.
+✔ Casos de pruebas.
 
-#### ⏰ Pomodoro timer: https://pomodoro-timer-24.netlify.app
+✔ Reportes de bugs.
 
+✔ Reportes de pruebas.
+
+✔ Pruebas de stress - App utilizada: Lighthouse.
+
+✔ Investigación de API.
+
+#### 📚 Conocimientos y aptitudes en Testing QA Manual:
+
+✔ Testing en software.
+
+✔ Ejecución de pruebas.
+
+✔ Test en la web, mobile, API.
 
 
 
