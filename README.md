@@ -33,7 +33,7 @@
 ✔ Hoja de estilos de Cascada
 
 
-#### JavaScript: https: https://salon-de-eventos.netlify.app
+#### 🔵 JavaScript: https: https://salon-de-eventos.netlify.app
 #### 📚 Conocimientos y aptitudes en JavaScript :
 
 ✔ Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
@@ -54,7 +54,7 @@
 ✔ Aplicación web.
 
 #### ⏰ Pomodoro timer: https://pomodoro-timer-24.netlify.app
-#### React Js: https://tienda-de-arte.netlify.app
+#### 🔵 React Js: https://tienda-de-arte.netlify.app
 
 
 #### 📚 Conocimientos y aptitudes en React Js:
