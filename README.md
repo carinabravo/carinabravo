@@ -11,7 +11,7 @@
 #### Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación:
 
 
-#### Desarrollo Web: https: https://centro-de-medicina-estetica.netlify.app
+🔵 #### Desarrollo Web: https: https://centro-de-medicina-estetica.netlify.app
 
 #### 📚 Conocimientos y aptitudes en Desarrollo web:
 
@@ -67,7 +67,7 @@
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
 
   
-#### Cuento con una certificación 🏅 en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
+#### Además cuento con una certificación 🏅 en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
 
 #### Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
