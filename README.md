@@ -72,6 +72,8 @@
 
 #### 🔵 Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original-wordmark.svgalt="html5" width="30" height="30"/></code>
+
 #### 📚 Conocimientos y aptitudes en Photoshop e Illustrator:
 
 ✔ Interpretar un manual de marca.
@@ -83,6 +85,7 @@
 ✔ Diseño de logotipos.
 
 ✔ Branding (diseño de marca).
+
 
 
 #### Actualmente cuento con una certificación 🏅 en Testing QA Manual, en donde realicé un review completo de la página web https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas:
