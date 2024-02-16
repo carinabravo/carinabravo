@@ -125,7 +125,7 @@
 ![image](https://github.com/carinabravo/carinabravo/assets/54654136/4310f333-516d-49e0-bf01-6525df9f7594)
 
 
-
+<img src="/warmice71/warmice71/raw/main/assets/node.svg" alt="node" height="100" title="Node documentation" style="max-width: 100%;">
 
 
 
