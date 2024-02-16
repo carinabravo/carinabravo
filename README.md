@@ -172,7 +172,7 @@
       <br>Postman
              </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original-wordmark.svg" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" width="48" height="48" />
       <br>Trello
              </td>
   </tr>
