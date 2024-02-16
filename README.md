@@ -211,7 +211,7 @@ https://pomodoro-timer-24.netlify.app
 <table align="center">
   <tr>
    <td align="center"  width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/411b99c9-f8fd-445f-a0bd-1ad8d4f7a0c4" width="100" height="100"/>
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/411b99c9-f8fd-445f-a0bd-1ad8d4f7a0c4" width="1000" height="1000"/>
       <br>HTML5
     </td>
  </tr>
