@@ -73,7 +73,8 @@ https://pomodoro-timer-24.netlify.app
 ✔ Aplicación web.
 
 
-### Obtuve una certificación en Photoshop e Illustrator, realizando como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
+### Obtuve una certificación en Photoshop e Illustrator, realizando como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: 
+https://www.behance.net/carinabravo 
 
 ## Photoshop e Illustrator 
 https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
