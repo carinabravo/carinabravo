@@ -34,6 +34,7 @@
 
 
 #### 🔵 JavaScript: https: https://salon-de-eventos.netlify.app
+
 #### 📚 Conocimientos y aptitudes en JavaScript :
 
 ✔ Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
@@ -71,9 +72,7 @@
 #### Además cuento con una certificación 🏅 en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
 
 #### 🔵 Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original-wordmark.svgalt="html5" width="30" height="30"/>
-</p>
+
 #### 📚 Conocimientos y aptitudes en Photoshop e Illustrator:
 
 ✔ Interpretar un manual de marca.
@@ -124,8 +123,6 @@
 
 
 ![image](https://github.com/carinabravo/carinabravo/assets/54654136/4310f333-516d-49e0-bf01-6525df9f7594)
-
-
 
 
 
