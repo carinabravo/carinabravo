@@ -240,7 +240,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/https://twitter.com/carinabravo_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
+<a href="/https://twitter.com/carinabravo_dev" target="blank"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/41948393-834e-44a7-876f-36753050d1d0"  height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/carina-bravo/" target="blank"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/9a4d14bb-8ff0-48ca-9224-20b9f11dde1c" height="59" width="59" /></a>
 <a href="https://www.instagram.com/b87_carina/" target="blank"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/d69e8f97-5361-4791-bc4f-17169386c907" height="38" width="38" /></a>
 </p>
