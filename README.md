@@ -11,7 +11,7 @@
 #### Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación:
 
 
-### Desarrollo Web: https:
+### Desarrollo Web:
 https://centro-de-medicina-estetica.netlify.app
 
 #### 💻 Conocimientos y aptitudes en Desarrollo web:
