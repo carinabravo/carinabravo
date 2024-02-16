@@ -123,7 +123,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 <table align="center">
   <tr>
  <td align="center"  width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/dc5b859d-f2cd-425f-87ff-6006fec640c3" width="48" height="48"/>
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/dc5b859d-f2cd-425f-87ff-6006fec640c3" alt="icon" width="48" height="48"/>
       <br>Mockflow
     </td>
    <td align="center"  width="96">
@@ -131,24 +131,24 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=css"  alt="icon" width="48" height="48" />
       <br>CSS
     </td>
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+        <img src="https://skillicons.dev/icons?i=sass"  alt="icon" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=bootstrap"  alt="icon" width="48" height="48" />
       <br>Bootstrap
     </td>
   <td align="center"  width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg"  alt="icon" width="48" height="48" />
       <br>Talwind
     </td>
 <td align="center"  width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/b2c6db1f-67e3-4510-a757-249adecbaf60" width="48" height="48" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/b2c6db1f-67e3-4510-a757-249adecbaf60"  alt="icon" width="48" height="48" />
       <br>Material UI
 </td>
     <td align="center" width="96">
@@ -160,64 +160,64 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
       <br>React
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="65" height="65" />
       <br>Vite
     </td>
       </tr>
   <tr>
       <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/73e7ddd2-515a-4535-b6f8-32aa5f9958d5"alt="icon" width="65" height="65" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/73e7ddd2-515a-4535-b6f8-32aa5f9958d5" alt="icon" width="65" height="65" />
       <br>Fromspree
     </td>
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=firebase"  alt="icon" width="48" height="48" />
       <br>Firebase
              </td>
        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"" />
+        <img src="https://skillicons.dev/icons?i=vscode"  alt="icon"  width="48" height="48"" />
       <br>VsCode
              </td>
     <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"  alt="icon" width="48" height="48" />
       <br>Git
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" />
       <br>Photoshop
              </td>
   <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg"  alt="icon" width="48" height="48" />
       <br>Illustrator
              </td>
                 </td>
   <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/9c32d02f-ef06-4083-9faf-49a0debbd2eb" width="48" height="48" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/9c32d02f-ef06-4083-9faf-49a0debbd2eb"  alt="icon"  width="48" height="48" />
       <br>Behance
              </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=postman"  alt="icon" width="48" height="48" />
       <br>Postman
              </td>
  <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/314233d0-fbd1-4558-a0dd-7a3a17e52910" width="48" height="48" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/314233d0-fbd1-4558-a0dd-7a3a17e52910"  alt="icon" width="48" height="48" />
       <br>Lighthouse
              </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg"  alt="icon" width="48" height="48" />
       <br>Trello
              </td>
    </tr>
   <tr>
  <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"  alt="icon" width="48" height="48" />
       <br>Jira
              </td>
             </td>
  <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"  alt="icon" width="48" height="48" />
       <br>Selenium
              </td>
 <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1306296a-1fa9-4aca-8a57-7d8319949039)" width="48" height="48" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1306296a-1fa9-4aca-8a57-7d8319949039)"  alt="icon" width="48" height="48" />
       <br>SQL
              </td>
   </tr>
