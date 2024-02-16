@@ -202,6 +202,19 @@
 </div>
 
 
+
+### Mis valores personales y ética de trabajo.
+
+✨ Construir relaciones sólidas.
+
+✨ Buena relación de trabajo basada en la confianza y el respeto mutuos.
+
+✨ Trabajar en equipo y disfrutar colaborando con otros para lograr un objetivo común.
+
+✨ Disfruto aprendiendo nuevas tecnologías y herramientas para ampliar mis habilidades.
+
+
+
 ![1655331256105](https://user-images.githubusercontent.com/54654136/186049433-e75e8d57-7462-49a1-9eb6-a87ba8ba43da.jpg)
 
 
