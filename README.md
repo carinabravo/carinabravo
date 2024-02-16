@@ -79,7 +79,7 @@ https://www.behance.net/carinabravo
 ## Photoshop e Illustrator 
 https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
-### 💻 Conocimientos y aptitudes en Adobe Photoshop e Illustrator:
+### 💻 Conocimientos y aptitudes en Adobe Photoshop y Adobe Illustrator:
 
 ✔ Interpretar un manual de marca.
 
