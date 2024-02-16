@@ -124,7 +124,7 @@
 
 
 
-<a href="https://nodejs.org/en/docs/guides" rel="nofollow"><img src="/warmice71/warmice71/raw/main/assets/node.svg" alt="node" height="100" title="Node documentation" style="max-width: 100%;"></a>
+<a href="https://nodejs.org/en/guides" rel="nofollow"><img src="/warmice71/warmice71/raw/main/assets/node.svg" alt="node" height="100" title="Node documentation" style="max-width: 100%;"></a>
 
 
 
