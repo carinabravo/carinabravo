@@ -71,9 +71,9 @@
 #### Además cuento con una certificación 🏅 en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
 
 #### 🔵 Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
-
+<p align="left">
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original-wordmark.svgalt="html5" width="30" height="30"/></code>
-
+</p>
 #### 📚 Conocimientos y aptitudes en Photoshop e Illustrator:
 
 ✔ Interpretar un manual de marca.
