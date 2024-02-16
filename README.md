@@ -160,12 +160,12 @@ https://pomodoro-timer-24.netlify.app
         <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" />
       <br>Vite
     </td>
+      </tr>
+  <tr>
       <td align="center" width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/73e7ddd2-515a-4535-b6f8-32aa5f9958d5"alt="icon" width="65" height="65" />
       <br>Fromspree
     </td>
-      </tr>
-  <tr>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" />
       <br>Firebase
@@ -198,12 +198,12 @@ https://pomodoro-timer-24.netlify.app
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/314233d0-fbd1-4558-a0dd-7a3a17e52910" width="48" height="48" />
       <br>Lighthouse
              </td>
+  </tr>
+  <tr>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" width="48" height="48" />
       <br>Trello
              </td>
-   </tr>
-  <tr>
  <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48" height="48" />
       <br>Jira
