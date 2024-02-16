@@ -8,7 +8,7 @@
 
 ✔ React Js
 
-#### Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación
+#### Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación:
 
 
 ### Desarrollo Web
