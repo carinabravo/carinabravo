@@ -1,6 +1,6 @@
 # ¡Bienvenido/a 👋 a mi perfil profesional!   
 
-### Estoy certificada por Coderhouse en la Carrera de Desarrollo Frontend React, la cual se encuentra conformada por tres cursos especializados en:
+### Estoy certificada en la Carrera de Desarrollo Frontend React, la cual se encuentra conformada por tres cursos especializados en:
 
 ✔ Desarrollo Web
 
@@ -73,7 +73,7 @@ https://pomodoro-timer-24.netlify.app
 ✔ Aplicación web.
 
 
-### Estoy certificada por Coderhouse en Photoshop e Illustrator, realizando como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: 
+### Estoy certificada en Photoshop e Illustrator, realizando como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: 
 https://www.behance.net/carinabravo 
 
 ## Photoshop e Illustrator 
@@ -92,7 +92,7 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 ✔ Branding (diseño de marca).
 
 
-### Estoy certificada por Coderhouse en Testing QA Manual, realizando como proyecto final un Review completo de la página web:
+### Estoy certificada en Testing QA Manual, realizando como proyecto final un Review completo de la página web:
 https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas.
 
 ## Testing QA Manual
