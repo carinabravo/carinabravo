@@ -14,24 +14,23 @@
 
 #### 📚 Conocimientos y aptitudes en Desarrollo web:
 
-✔ Git
-
-✔ Css Flexbox
-
 ✔ Html 5
-
-✔ Alojamiento Web
-
-✔ Servicios de Hosting
-
-✔ Lenguaje SASS
-
-✔ Bootstrap
 
 ✔ Diseño de cuadricula CSS
 
 ✔ Hoja de estilos de Cascada
 
+✔ Css Flexbox
+
+✔ Lenguaje SASS
+
+✔ Bootstrap
+
+✔ Alojamiento Web
+
+✔ Servicios de Hosting
+
+✔ Git
 
 #### 🔵 JavaScript: https: https://salon-de-eventos.netlify.app
 
@@ -157,6 +156,14 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
              </td>
+     <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=all" width="48" height="48" alt="Postman" />
+      <br>Postman
+             </td>
+    
     </td>
   </tr>
 </table>
