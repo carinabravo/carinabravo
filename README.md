@@ -140,6 +140,10 @@ https://pomodoro-timer-24.netlify.app
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="48" height="48" />
       <br>Talwind
     </td>
+<td align="center"  width="96">
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/b2c6db1f-67e3-4510-a757-249adecbaf60" width="48" height="48" />
+      <br>Material UI
+</td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
