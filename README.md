@@ -217,7 +217,7 @@ https://pomodoro-timer-24.netlify.app
 </div>
 </div>
 
-### 👩🏻 Mis valores personales y ética de trabajo:
+### 💻 Mis valores personales y ética de trabajo:
 
  ✔ Relación de trabajo basada en la confianza y el respeto mutuos.
 
