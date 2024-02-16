@@ -124,7 +124,8 @@
 
 
 
-<a href="https://nodejs.org/en/guides" rel="nofollow"><img src="/warmice71/warmice71/raw/main/assets/node.svg" alt="node" height="100" title="Node documentation" style="max-width: 100%;"></a>
+<a href="![image](https://github.com/carinabravo/carinabravo/assets/54654136/d1c7de8e-d161-401b-b144-71501fc86d44)
+" rel="nofollow"><img alt="node" height="100" title="Node documentation" style="max-width: 100%;"></a>
 
 
 
