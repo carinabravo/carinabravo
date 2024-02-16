@@ -119,7 +119,7 @@
 
 
 
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.semrush.com%2Fblog%2Fcomo-utilizar-google-lighthouse%2F&psig=AOvVaw0ylVOzMHPcQ7Gwa_XWK-AK&ust=1708190634233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDdjJGwsIQDFQAAAAAdAAAAABAE
 
 
 
