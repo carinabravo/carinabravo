@@ -14,7 +14,7 @@
 ### Desarrollo Web
 https://centro-de-medicina-estetica.netlify.app
 
-#### 💻 Conocimientos y aptitudes en Desarrollo web
+#### 💻 Conocimientos y aptitudes en Desarrollo web:
 
 ✔ Prototipado
 
@@ -40,7 +40,7 @@ https://centro-de-medicina-estetica.netlify.app
 ### JavaScript
 https://salon-de-eventos.netlify.app
 
-#### 💻 Conocimientos y aptitudes en JavaScript 
+#### 💻 Conocimientos y aptitudes en JavaScript:
 
 ✔ Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
 
@@ -58,7 +58,7 @@ https://salon-de-eventos.netlify.app
 ### React Js
 https://tienda-de-arte.netlify.app
 
-#### 💻 Conocimientos y aptitudes en React Js
+#### 💻 Conocimientos y aptitudes en React Js:
 
 ✔ Programar por componentes mediante JavaScript, Js, ES6.
 
@@ -78,7 +78,7 @@ https://pomodoro-timer-24.netlify.app
 ### Photoshop e Illustrator 
 https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
-#### 💻 Conocimientos y aptitudes en Photoshop e Illustrator
+#### 💻 Conocimientos y aptitudes en Photoshop e Illustrator:
 
 ✔ Interpretar un manual de marca.
 
@@ -91,7 +91,7 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 ✔ Branding (diseño de marca).
 
 
-#### Obtuve una certificación en Testing QA Manual, en donde realicé un review completo de la página web
+#### Obtuve una certificación en Testing QA Manual, en donde realicé un review completo de la página web:
 https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas.
 
 ### Testing QA Manual
@@ -107,7 +107,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 ✔ Investigación de API.
 
 
-#### 💻 Conocimientos y aptitudes en Testing QA Manual
+#### 💻 Conocimientos y aptitudes en Testing QA Manual:
 
 ✔ Testing en software.
 
