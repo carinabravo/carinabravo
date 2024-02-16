@@ -12,7 +12,7 @@
 
 #### Desarrollo Web: https: https://centro-de-medicina-estetica.netlify.app
 
-#### 📚 Conocimientos y aptitudes en Desarrollo web:
+#### 💻 Conocimientos y aptitudes en Desarrollo web:
 
 ✔ Html 5
 
@@ -34,7 +34,7 @@
 
 #### JavaScript: https: https://salon-de-eventos.netlify.app
 
-#### 📚 Conocimientos y aptitudes en JavaScript :
+#### 💻 Conocimientos y aptitudes en JavaScript :
 
 ✔ Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
 
@@ -59,7 +59,7 @@
 #### React Js: https://tienda-de-arte.netlify.app
 
 
-#### 📚 Conocimientos y aptitudes en React Js:
+#### 💻 Conocimientos y aptitudes en React Js:
 
 ✔ Programar por componentes mediante JavaScript, Js, ES6.
 
@@ -72,7 +72,7 @@
 
 #### Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
-#### 📚 Conocimientos y aptitudes en Photoshop e Illustrator:
+#### 💻 Conocimientos y aptitudes en Photoshop e Illustrator:
 
 ✔ Interpretar un manual de marca.
 
@@ -98,7 +98,7 @@
 
 ✔ Investigación de API.
 
-#### 📚 Conocimientos y aptitudes en Testing QA Manual:
+#### 💻 Conocimientos y aptitudes en Testing QA Manual:
 
 ✔ Testing en software.
 
