@@ -118,11 +118,15 @@
 
 ✔ Selenium, para la automatización de pruebas web. (con javaScript)
 
-## 💻 Tecnologías y Herramientas usadas:
+## 💻 Tecnologías y Herramientas:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+             </td>
    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -148,12 +152,13 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase-Dark" width="48" height="48" alt="firebase" />
+      <br>Firebase
+             </td>
   </tr>
   <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-             </td>
+     
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
