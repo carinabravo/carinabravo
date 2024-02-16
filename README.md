@@ -107,6 +107,19 @@
 
 ✔ Test en la web, mobile, API.
 
+#### 📚 Herramientas:
+
+✔ Postman para realizar pruebas de API.
+
+✔ Jira - Trello para facilitar la gestión de proyectos de desarrollo y seguimiento de errores.
+
+✔ Selenium, utilizada para la automatización de pruebas web.
+
+
+
+
+
+
 
 
 
