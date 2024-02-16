@@ -2,7 +2,7 @@
 
 #### Estoy certificada en la Carrera de Desarrollo Frontend React en Coderhouse, la cual se encuentra conformada por una serie de cursos especializados en:
 
-✔ Desarrollo Web
+##### ✔ Desarrollo Web
 
 ✔ JavaScript 
 
