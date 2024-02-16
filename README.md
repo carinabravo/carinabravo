@@ -124,7 +124,7 @@
 
 
 
-<a href="https://github.com/carinabravo/carinabravo/assets/54654136/d1c7de8e-d161-401b-b144-71501fc86d44" rel="nofollow"><img alt="node" height="100" style="max-width: 100%;"></a>
+<a href="https://github.com/carinabravo/carinabravo/assets/54654136/d1c7de8e-d161-401b-b144-71501fc86d44"><img height="100" style="max-width: 100%;"></a>
 
 
 
