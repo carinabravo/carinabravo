@@ -53,14 +53,6 @@ https://salon-de-eventos.netlify.app
 ✔ Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
 
 
- ### Proyecto extra:
-
-✔ Aplicación web.
-
-### Pomodoro timer: 
-https://pomodoro-timer-24.netlify.app
-
-
 ### React Js:
 https://tienda-de-arte.netlify.app
 
@@ -113,6 +105,14 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 ✔ Ejecución de pruebas.
 
 ✔ Test en la web, mobile, API.
+
+
+#### Proyecto extra:
+
+✔ Aplicación web.
+
+### Pomodoro timer: 
+https://pomodoro-timer-24.netlify.app
 
 
 ### Tecnologías y Herramientas:
