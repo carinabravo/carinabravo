@@ -1,4 +1,4 @@
-## ¡Bienvenido/a 👋 a mi perfil profesional!   
+# ¡Bienvenido/a 👋 a mi perfil profesional!   
 
 ### Estoy certificada en la Carrera de Desarrollo Frontend React en Coderhouse, la cual se encuentra conformada por una serie de cursos especializados en:
 
