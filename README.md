@@ -116,7 +116,7 @@
 
 ✔ Selenium, para la automatización de pruebas web. (con javaScript)
 
-## 💻 Tecnologías y Herramientas:
+### 💻 Tecnologías y Herramientas:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
