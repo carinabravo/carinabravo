@@ -67,6 +67,12 @@ https://tienda-de-arte.netlify.app
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
 
 
+### Proyecto extra - Pomodoro timer: 
+https://pomodoro-timer-24.netlify.app
+
+✔ Aplicación web.
+
+
 #### Obtuve una certificación en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
 
 ### Photoshop e Illustrator: 
@@ -108,12 +114,6 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 ✔ Ejecución de pruebas.
 
 ✔ Test en la web, mobile, API.
-
-
-### Proyecto extra - Pomodoro timer: 
-https://pomodoro-timer-24.netlify.app
-
-✔ Aplicación web.
 
 
 ### 💻 Tecnologías y Herramientas:
