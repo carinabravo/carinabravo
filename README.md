@@ -135,7 +135,6 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
         <img src="https://skillicons.dev/icons?i=css"  alt="icon" width="48" height="48" />
       <br>CSS
     </td>
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass"  alt="icon" width="48" height="48" alt="Sass" />
       <br>Sass
