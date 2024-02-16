@@ -8,13 +8,13 @@
 
 ✔ React Js
 
-#### Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación:
+#### Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación
 
 
-### Desarrollo Web:
+### Desarrollo Web
 https://centro-de-medicina-estetica.netlify.app
 
-#### 💻 Conocimientos y aptitudes en Desarrollo web:
+#### 💻 Conocimientos y aptitudes en Desarrollo web
 
 ✔ Prototipado
 
@@ -37,10 +37,10 @@ https://centro-de-medicina-estetica.netlify.app
 ✔ Git
 
 
-### JavaScript: 
+### JavaScript
 https://salon-de-eventos.netlify.app
 
-#### 💻 Conocimientos y aptitudes en JavaScript :
+#### 💻 Conocimientos y aptitudes en JavaScript 
 
 ✔ Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
 
@@ -55,10 +55,10 @@ https://salon-de-eventos.netlify.app
 ✔ Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
 
 
-### React Js:
+### React Js
 https://tienda-de-arte.netlify.app
 
-#### 💻 Conocimientos y aptitudes en React Js:
+#### 💻 Conocimientos y aptitudes en React Js
 
 ✔ Programar por componentes mediante JavaScript, Js, ES6.
 
@@ -67,7 +67,7 @@ https://tienda-de-arte.netlify.app
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
 
 
-### Proyecto extra - Pomodoro timer: 
+### Proyecto extra - Pomodoro timer
 https://pomodoro-timer-24.netlify.app
 
 ✔ Aplicación web.
@@ -75,10 +75,10 @@ https://pomodoro-timer-24.netlify.app
 
 #### Obtuve una certificación en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
 
-### Photoshop e Illustrator: 
+### Photoshop e Illustrator 
 https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
-#### 💻 Conocimientos y aptitudes en Photoshop e Illustrator:
+#### 💻 Conocimientos y aptitudes en Photoshop e Illustrator
 
 ✔ Interpretar un manual de marca.
 
@@ -91,10 +91,10 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 ✔ Branding (diseño de marca).
 
 
-#### Obtuve una certificación en Testing QA Manual, en donde realicé un review completo de la página web:
-https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas:
+#### Obtuve una certificación en Testing QA Manual, en donde realicé un review completo de la página web
+https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas.
 
-### Testing QA Manual:
+### Testing QA Manual
 
 ✔ Casos de pruebas.
 
@@ -107,7 +107,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 ✔ Investigación de API.
 
 
-#### 💻 Conocimientos y aptitudes en Testing QA Manual:
+#### 💻 Conocimientos y aptitudes en Testing QA Manual
 
 ✔ Testing en software.
 
@@ -116,7 +116,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 ✔ Test en la web, mobile, API.
 
 
-### 💻 Tecnologías y Herramientas:
+### 💻 Tecnologías y Herramientas
 
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -230,7 +230,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 </div>
 </div>
 
-### 💻 Mis valores personales y ética de trabajo:
+### 💻 Mis valores personales y ética de trabajo
 
  ✔ Relación de trabajo basada en la confianza y el respeto mutuos.
 
@@ -238,7 +238,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 
  ✔ Aprender nuevas tecnologías y herramientas para ampliar mis habilidades.
   
-### 📲 Contacto laboral :
+### 📲 Contacto laboral 
 <p align="left">
 <a href="https://www.linkedin.com/in/carina-bravo/" target="blank"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/9a4d14bb-8ff0-48ca-9224-20b9f11dde1c" height="59" width="59"/><a/>
   </p>
