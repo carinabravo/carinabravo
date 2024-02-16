@@ -1,6 +1,6 @@
 # ¡Bienvenido/a 👋 a mi perfil profesional!   
 
-#### Estoy certificada en la Carrera de Desarrollo Frontend React en Coderhouse, la cual se encuentra conformada por una serie de cursos especializados en:
+#### Estoy certificada 👩🏻‍🎓 en la Carrera de Desarrollo Frontend React en Coderhouse, la cual se encuentra conformada por una serie de cursos especializados en:
 
 ✔ Desarrollo Web
 
@@ -65,7 +65,7 @@ https://tienda-de-arte.netlify.app
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
 
 
-#### Además cuento con una certificación en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
+#### Además cuento con una certificación 👩🏻‍🎓 en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
 
 ### Photoshop e Illustrator: 
 https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
@@ -83,7 +83,7 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 ✔ Branding (diseño de marca).
 
 
-#### Actualmente cuento con una certificación en Testing QA Manual, en donde realicé un review completo de la página web https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas:
+#### Actualmente cuento con una certificación 👩🏻‍🎓 en Testing QA Manual, en donde realicé un review completo de la página web https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas:
 
 ### Testing QA Manual:
 
