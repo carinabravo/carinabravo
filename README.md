@@ -111,7 +111,7 @@
 
 ✔ Postman, para realizar pruebas de API.
 
-✔ Jira - Trello, para facilitar la gestión de proyectos de desarrollo y seguimiento de errores.
+✔ Jira - Trello, para gestionar cualquier tipo de proyecto de desarrollo y flujo de trabajo, así como supervisar tareas.
 
 ✔ Selenium, utilizada para la automatización de pruebas web.
 
