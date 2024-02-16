@@ -194,7 +194,7 @@
       <br>Selenium
              </td>
 <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1e93e61b-8965-469b-8ccf-6def86d89d46" width="48" height="48" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1306296a-1fa9-4aca-8a57-7d8319949039)" width="48" height="48" />
       <br>SQL
              </td>
   </tr>
