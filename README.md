@@ -109,11 +109,13 @@
 
 #### 📚 Herramientas:
 
-✔ Postman, para realizar pruebas de API.
+✔ Lighthouse, para medir la calidad de las páginas web. (herramienta automatizada de código abierto)
 
-✔ Jira - Trello, para gestionar cualquier tipo de proyecto de desarrollo y flujo de trabajo, así como supervisar tareas.
+✔ Postman, para realizar pruebas API.
 
-✔ Selenium, utilizada para la automatización de pruebas web.
+✔ Jira - Trello, para gestionar tareas, recursos y documentos.
+
+✔ Selenium, para la automatización de pruebas web. (con javaScript)
 
 
 
