@@ -202,6 +202,8 @@ https://pomodoro-timer-24.netlify.app
  <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" />
       <br>Selenium
+    </tr>
+  <tr>
              </td>
 <td align="center" width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1306296a-1fa9-4aca-8a57-7d8319949039)" width="48" height="48" />
