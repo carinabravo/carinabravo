@@ -83,7 +83,8 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 ✔ Branding (diseño de marca).
 
 
-#### Actualmente cuento con una certificación en Testing QA Manual, en donde realicé un review completo de la página web https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas:
+#### Actualmente cuento con una certificación en Testing QA Manual, en donde realicé un review completo de la página web:
+https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas:
 
 ### Testing QA Manual:
 
