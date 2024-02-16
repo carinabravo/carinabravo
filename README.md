@@ -1,8 +1,8 @@
 # ¡Bienvenido/a 👋 a mi perfil profesional!   
 
-#### Estoy certificada en la Carrera de Desarrollo Frontend React en Coderhouse, la cual se encuentra conformada por una serie de cursos especializados en:
+#### Estoy certificada en la Carrera de Desarrollo Frontend React en Coderhouse, la cual se encuentra conformada por tres cursos especializados en:
 
-##### ✔ Desarrollo Web
+✔ Desarrollo Web
 
 ✔ JavaScript 
 
@@ -73,12 +73,12 @@ https://pomodoro-timer-24.netlify.app
 ✔ Aplicación web.
 
 
-#### Obtuve una certificación en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
+#### Obtuve una certificación en Photoshop e Illustrator, realizando como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
 
 ### Photoshop e Illustrator 
 https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
-#### 💻 Conocimientos y aptitudes en Photoshop e Illustrator:
+#### 💻 Conocimientos y aptitudes en Adobe Photoshop e Illustrator:
 
 ✔ Interpretar un manual de marca.
 
@@ -91,7 +91,7 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 ✔ Branding (diseño de marca).
 
 
-#### Obtuve una certificación en Testing QA Manual, en donde realicé un review completo de la página web:
+#### Obtuve una certificación en Testing QA Manual, realizando como proyecto final un Review completo de la página web:
 https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas.
 
 ### Testing QA Manual
@@ -107,7 +107,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 ✔ Investigación de API.
 
 
-#### 💻 Conocimientos y aptitudes en Testing QA Manual:
+#### 💻 Conocimientos y aptitudes en Testing:
 
 ✔ Testing en software.
 
@@ -230,7 +230,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 </div>
 </div>
 
-### 👩🏻‍💻 Mis valores personales y ética de trabajo
+### 👩🏻‍💻 Valores personales y ética de trabajo
 
  ✔ Relación de trabajo basada en la confianza y el respeto mutuos.
 
