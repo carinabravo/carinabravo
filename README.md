@@ -107,15 +107,13 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 ✔ Test en la web, mobile, API.
 
 
-#### Proyecto extra:
+### Proyecto extra - Pomodoro timer: 
+https://pomodoro-timer-24.netlify.app
 
 ✔ Aplicación web.
 
-### Pomodoro timer: 
-https://pomodoro-timer-24.netlify.app
 
-
-### Tecnologías y Herramientas:
+### 💻 Tecnologías y Herramientas:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
