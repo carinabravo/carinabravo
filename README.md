@@ -120,8 +120,7 @@
 
 
 
-
-https://static.semrush.com/blog/uploads/media/c7/73/c773f25fc63065a71e130ab938479f7e/google-lighthouse-sm.png
+![image](https://github.com/carinabravo/carinabravo/assets/54654136/0a3541da-4255-4fc2-bc22-ff2adf373e0d)
 
 
 
