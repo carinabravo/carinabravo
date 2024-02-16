@@ -67,7 +67,7 @@ https://tienda-de-arte.netlify.app
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
 
 
-## Proyecto extra - Pomodoro timer
+## Pomodoro timer - Proyecto extra
 https://pomodoro-timer-24.netlify.app
 
 ✔ Aplicación web.
