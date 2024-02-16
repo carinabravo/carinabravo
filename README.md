@@ -161,7 +161,7 @@ https://pomodoro-timer-24.netlify.app
       <br>Vite
     </td>
       <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/bae07e43-2ded-42f2-9c71-5e6a8da65432" alt="icon" width="65" height="65" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/bf859e99-0e4e-4a17-9a7c-5c14211cf34a"alt="icon" width="65" height="65" />
       <br>Fromspree
     </td>
       </tr>
