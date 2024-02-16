@@ -93,7 +93,8 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
 
 ### Estoy certificada en Testing QA Manual, realizando como proyecto final un Review completo de la página web:
-https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas.
+https://locademia.racingclub.com.ar/ 
+### (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas.
 
 ## Testing QA Manual
 
