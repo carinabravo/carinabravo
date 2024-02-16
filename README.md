@@ -140,15 +140,15 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
       <br>Sass
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap"  alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="48" height="48" />
       <br>Bootstrap
     </td>
   <td align="center"  width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg"  alt="icon" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="icon" width="48" height="48" />
       <br>Talwind
     </td>
 <td align="center"  width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/b2c6db1f-67e3-4510-a757-249adecbaf60"  alt="icon" width="48" height="48" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/b2c6db1f-67e3-4510-a757-249adecbaf60" alt="icon" width="48" height="48" />
       <br>Material UI
 </td>
     <td align="center" width="96">
@@ -188,7 +188,6 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg"  alt="icon" width="48" height="48" />
       <br>Illustrator
              </td>
-                </td>
   <td align="center" width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/9c32d02f-ef06-4083-9faf-49a0debbd2eb"  alt="icon"  width="48" height="48" />
       <br>Behance
@@ -211,7 +210,6 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"  alt="icon" width="48" height="48" />
       <br>Jira
              </td>
-            </td>
  <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"  alt="icon" width="48" height="48" />
       <br>Selenium
