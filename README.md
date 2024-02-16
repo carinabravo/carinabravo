@@ -153,6 +153,10 @@ https://pomodoro-timer-24.netlify.app
       <br>JavaScript
     </td>
     <td align="center" width="96">
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/bae07e43-2ded-42f2-9c71-5e6a8da65432" alt="icon" width="65" height="65" />
+      <br>Fromspree
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
@@ -198,13 +202,13 @@ https://pomodoro-timer-24.netlify.app
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" width="48" height="48" />
       <br>Trello
              </td>
+   </tr>
+  <tr>
  <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48" height="48" />
       <br>Jira
              </td>
             </td>
-  </tr>
-  <tr>
  <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" />
       <br>Selenium
