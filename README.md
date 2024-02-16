@@ -117,10 +117,11 @@
 
 ✔ Selenium, para la automatización de pruebas web. (con javaScript)
 
+![image](https://github.com/carinabravo/carinabravo/assets/54654136/167eacca-bf75-49c3-aaca-e139fb224c07)
 
 
 
-![image](https://github.com/carinabravo/carinabravo/assets/54654136/0a3541da-4255-4fc2-bc22-ff2adf373e0d)
+
 
 
 
