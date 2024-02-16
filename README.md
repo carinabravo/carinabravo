@@ -167,6 +167,15 @@
         <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" />
       <br>Photoshop
              </td>
+  <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg" width="48" height="48" />
+      <br>Illustrator
+             </td>
+                </td>
+  <td align="center" width="96">
+        <img src="" width="48" height="48" />
+      <br>Behance
+             </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" />
       <br>Postman
@@ -179,6 +188,22 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48" height="48" />
       <br>Jira
              </td>
+            </td>
+ <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" />
+      <br>Selenium
+             </td>
+<td align="center" width="96">
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1e93e61b-8965-469b-8ccf-6def86d89d46" width="48" height="48" />
+      <br>SQL
+             </td>
+
+
+https://github.com/carinabravo/carinabravo/assets/54654136/1e93e61b-8965-469b-8ccf-6def86d89d46
+
+
+
+ 
   </tr>
 </table>
 <br><br>
