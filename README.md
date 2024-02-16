@@ -119,6 +119,10 @@ https://pomodoro-timer-24.netlify.app
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
+ <td align="center"  width="96">
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/dc5b859d-f2cd-425f-87ff-6006fec640c3" width="48" height="48"/>
+      <br>Mockflow
+    </td>
    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
       <br>HTML5
@@ -156,12 +160,12 @@ https://pomodoro-timer-24.netlify.app
         <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" />
       <br>Vite
     </td>
+    </tr>
+  <tr>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" />
       <br>Firebase
              </td>
-   </tr>
-  <tr>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"" />
       <br>VsCode
@@ -199,11 +203,11 @@ https://pomodoro-timer-24.netlify.app
       <br>Jira
              </td>
             </td>
+  </tr>
+  <tr>
  <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="48" height="48" />
       <br>Selenium
-    </tr>
-  <tr>
              </td>
 <td align="center" width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1306296a-1fa9-4aca-8a57-7d8319949039)" width="48" height="48" />
