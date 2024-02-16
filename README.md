@@ -1,6 +1,6 @@
 # ¡Bienvenido/a 👋 a mi perfil profesional!   
 
-### Estoy certificada 🏅 en la Carrera de Desarrollo Frontend React en Coderhouse, la cual se encuentra conformada por una serie de cursos especializados en:
+### Estoy certificada en la Carrera de Desarrollo Frontend React en Coderhouse, la cual se encuentra conformada por una serie de cursos especializados en:
 
 ✔ Desarrollo Web
 
@@ -10,7 +10,7 @@
 
 #### Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación:
 
-#### 🔵 Desarrollo Web: https: https://centro-de-medicina-estetica.netlify.app
+#### Desarrollo Web: https: https://centro-de-medicina-estetica.netlify.app
 
 #### 📚 Conocimientos y aptitudes en Desarrollo web:
 
@@ -32,7 +32,7 @@
 
 ✔ Git
 
-#### 🔵 JavaScript: https: https://salon-de-eventos.netlify.app
+#### JavaScript: https: https://salon-de-eventos.netlify.app
 
 #### 📚 Conocimientos y aptitudes en JavaScript :
 
@@ -53,10 +53,10 @@
 
 ✔ Aplicación web.
 
-#### ⏰ Pomodoro timer: https://pomodoro-timer-24.netlify.app
+#### Pomodoro timer: https://pomodoro-timer-24.netlify.app
 
 
-#### 🔵 React Js: https://tienda-de-arte.netlify.app
+#### React Js: https://tienda-de-arte.netlify.app
 
 
 #### 📚 Conocimientos y aptitudes en React Js:
@@ -68,9 +68,9 @@
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
 
 
-#### Además cuento con una certificación 🏅 en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
+#### Además cuento con una certificación en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
 
-#### 🔵 Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
+#### Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
 #### 📚 Conocimientos y aptitudes en Photoshop e Illustrator:
 
@@ -84,9 +84,9 @@
 
 ✔ Branding (diseño de marca).
 
-#### Actualmente cuento con una certificación 🏅 en Testing QA Manual, en donde realicé un review completo de la página web https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas:
+#### Actualmente cuento con una certificación en Testing QA Manual, en donde realicé un review completo de la página web https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas:
 
-#### 🔵 Testing QA Manual:
+#### Testing QA Manual:
 
 ✔ Casos de pruebas.
 
@@ -106,15 +106,6 @@
 
 ✔ Test en la web, mobile, API.
 
-#### 📚 Herramientas:
-
-✔ Lighthouse, para medir la calidad de las páginas web. (herramienta automatizada de código abierto)
-
-✔ Postman, para realizar pruebas API.
-
-✔ Jira - Trello, para gestionar tareas, recursos y documentos.
-
-✔ Selenium, para la automatización de pruebas web. (con javaScript)
 
 ### 💻 Tecnologías y Herramientas:
 
@@ -137,6 +128,10 @@
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" />
       <br>Bootstrap
+    </td>
+  <td align="center"  width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="48" height="48" />
+      <br>Talwind
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -173,12 +168,16 @@
              </td>
                 </td>
   <td align="center" width="96">
-        <img src="" width="48" height="48" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/9c32d02f-ef06-4083-9faf-49a0debbd2eb" width="48" height="48" />
       <br>Behance
              </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" />
       <br>Postman
+             </td>
+ <td align="center" width="96">
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/314233d0-fbd1-4558-a0dd-7a3a17e52910" width="48" height="48" />
+      <br>Lighthouse
              </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" width="48" height="48" />
