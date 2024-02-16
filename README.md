@@ -164,8 +164,6 @@
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
              </td>
-    
-    </td>
   </tr>
 </table>
 <br><br>
