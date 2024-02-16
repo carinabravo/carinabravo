@@ -207,7 +207,6 @@ https://pomodoro-timer-24.netlify.app
 <br><br>
 </div>
 
-
 ### Mis valores personales y ética de trabajo:
 
 ✨ Construir relaciones sólidas.
