@@ -118,6 +118,7 @@
 
 ✔ Selenium, para la automatización de pruebas web. (con javaScript)
 
+## 💻 Tecnologías y Herramientas usadas:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -149,13 +150,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
              </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
       <br>Photoshop
