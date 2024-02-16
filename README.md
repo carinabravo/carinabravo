@@ -116,7 +116,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 ✔ Test en la web, mobile, API.
 
 
-### 💻 Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -230,7 +230,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 </div>
 </div>
 
-### 💻 Mis valores personales y ética de trabajo
+### Mis valores personales y ética de trabajo
 
  ✔ Relación de trabajo basada en la confianza y el respeto mutuos.
 
