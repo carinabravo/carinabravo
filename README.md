@@ -1,6 +1,6 @@
 # ¡Bienvenido/a 👋 a mi perfil profesional!   
 
-### Estoy certificada en la Carrera de Desarrollo Frontend React en Coderhouse, la cual se encuentra conformada por una serie de cursos especializados en:
+#### Estoy certificada en la Carrera de Desarrollo Frontend React en Coderhouse, la cual se encuentra conformada por una serie de cursos especializados en:
 
 ✔ Desarrollo Web
 
@@ -8,7 +8,7 @@
 
 ✔ React Js
 
-#### Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación:
+##### Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación:
 
 #### Desarrollo Web: https: https://centro-de-medicina-estetica.netlify.app
 
