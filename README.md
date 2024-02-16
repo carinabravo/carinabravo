@@ -118,7 +118,7 @@ https://pomodoro-timer-24.netlify.app
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-   <td align="center"  width="96">
+   <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
       <br>HTML5
     </td>
