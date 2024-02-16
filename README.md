@@ -10,6 +10,7 @@
 
 #### Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación:
 
+
 ### Desarrollo Web: https:
 https://centro-de-medicina-estetica.netlify.app
 
@@ -33,7 +34,9 @@ https://centro-de-medicina-estetica.netlify.app
 
 ✔ Git
 
-#### JavaScript: https: https://salon-de-eventos.netlify.app
+
+### JavaScript: 
+https://salon-de-eventos.netlify.app
 
 #### 💻 Conocimientos y aptitudes en JavaScript :
 
@@ -54,11 +57,12 @@ https://centro-de-medicina-estetica.netlify.app
 
 ✔ Aplicación web.
 
-#### Pomodoro timer: https://pomodoro-timer-24.netlify.app
+### Pomodoro timer: 
+https://pomodoro-timer-24.netlify.app
 
 
-#### React Js: https://tienda-de-arte.netlify.app
-
+### React Js:
+https://tienda-de-arte.netlify.app
 
 #### 💻 Conocimientos y aptitudes en React Js:
 
@@ -71,7 +75,8 @@ https://centro-de-medicina-estetica.netlify.app
 
 #### Además cuento con una certificación en Photoshop e Illustrator, en donde realicé como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: https://www.behance.net/carinabravo 
 
-#### Photoshop e Illustrator: https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
+### Photoshop e Illustrator: 
+https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
 #### 💻 Conocimientos y aptitudes en Photoshop e Illustrator:
 
@@ -85,9 +90,10 @@ https://centro-de-medicina-estetica.netlify.app
 
 ✔ Branding (diseño de marca).
 
+
 #### Actualmente cuento con una certificación en Testing QA Manual, en donde realicé un review completo de la página web https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se generó un reporte completo de todas las incidencias encontradas:
 
-#### Testing QA Manual:
+### Testing QA Manual:
 
 ✔ Casos de pruebas.
 
@@ -98,6 +104,7 @@ https://centro-de-medicina-estetica.netlify.app
 ✔ Pruebas de stress - App utilizada: Lighthouse.
 
 ✔ Investigación de API.
+
 
 #### 💻 Conocimientos y aptitudes en Testing QA Manual:
 
