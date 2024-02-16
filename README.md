@@ -16,6 +16,8 @@ https://centro-de-medicina-estetica.netlify.app
 
 #### 💻 Conocimientos y aptitudes en Desarrollo web:
 
+✔ Prototipado
+
 ✔ Html 5
 
 ✔ Diseño de cuadricula CSS
