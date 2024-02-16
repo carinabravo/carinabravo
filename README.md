@@ -197,13 +197,6 @@
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1e93e61b-8965-469b-8ccf-6def86d89d46" width="48" height="48" />
       <br>SQL
              </td>
-
-
-https://github.com/carinabravo/carinabravo/assets/54654136/1e93e61b-8965-469b-8ccf-6def86d89d46
-
-
-
- 
   </tr>
 </table>
 <br><br>
