@@ -238,7 +238,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 
  ✔ Aprender nuevas tecnologías y herramientas para ampliar mis habilidades.
   
-<h3 align="left">Connect with me:</h3>
+### Contacto:
 <p align="left">
 <a href="https://www.linkedin.com/in/carina-bravo/" target="blank"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/9a4d14bb-8ff0-48ca-9224-20b9f11dde1c" height="59" width="59" /></a>
   <a href="https://www.instagram.com/b87_carina/" target="blank"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/d69e8f97-5361-4791-bc4f-17169386c907" height="38" width="38" />
