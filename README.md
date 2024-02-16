@@ -107,7 +107,7 @@
 ✔ Test en la web, mobile, API.
 
 
-### 💻 Tecnologías y Herramientas:
+### Tecnologías y Herramientas:
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
