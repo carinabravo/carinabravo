@@ -230,7 +230,7 @@ https://locademia.racingclub.com.ar/ (versión desktop y mobile), donde se gener
 </div>
 </div>
 
-### Mis valores personales y ética de trabajo
+### 👩🏻‍💻 Mis valores personales y ética de trabajo
 
  ✔ Relación de trabajo basada en la confianza y el respeto mutuos.
 
