@@ -208,7 +208,7 @@ https://pomodoro-timer-24.netlify.app
 </div>
 
 <div style="display: flex; align-items: flex-start; align: center">
-   <td align="center"  width="100">
+   <td align="center">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/411b99c9-f8fd-445f-a0bd-1ad8d4f7a0c4"/>
     </td>
 </div>
