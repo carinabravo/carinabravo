@@ -240,10 +240,12 @@ https://locademia.racingclub.com.ar/
 ## 📲 Contacto laboral 
 <p align="left">
 <a href="https://www.linkedin.com/in/carina-bravo/" target="blank"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/9a4d14bb-8ff0-48ca-9224-20b9f11dde1c" height="59" width="59"/><a/>
+  <a href="
+carina.n.bravo@gmail.com"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/9a4d14bb-8ff0-48ca-9224-20b9f11dde1c" height="59" width="59"/><a/>
   </p>
 
 carina.n.bravo@gmail.com
-Please visit https://patience.onrender.com/
+
 
 
 
