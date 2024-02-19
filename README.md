@@ -98,7 +98,7 @@ https://locademia.racingclub.com.ar/
 
 ## Testing QA Manual
 
-✔ Casos de pruebas.
+✔ Casos de prueba.
 
 ✔ Reportes de bugs.
 
