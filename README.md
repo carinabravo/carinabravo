@@ -202,7 +202,7 @@ https://locademia.racingclub.com.ar/
       <br>Postman
              </td>
 <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/b154d165-cb3f-49f1-99e3-033b116b3abd" alt="icon" width="48" height="48" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/ba2bb9a5-0f0e-4e9b-807e-681965062732" alt="icon" width="48" height="48" />
       <br>JMeter
              </td>
         </tr>
