@@ -178,6 +178,10 @@ https://locademia.racingclub.com.ar/
         <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="48" height="48"" />
       <br>VsCode
              </td>
+     <td align="center" width="96">
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/d80ad35f-f94e-4b6a-8c24-b51bba4e27ab" alt="icon" width="48" height="48"" />
+      <br>Prettier
+             </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="icon" width="48" height="48" />
       <br>Git
