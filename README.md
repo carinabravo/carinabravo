@@ -155,7 +155,7 @@ https://github.com/carinabravo/testing-tienda-locademia
   <tr>
       <td align="center" width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/73e7ddd2-515a-4535-b6f8-32aa5f9958d5" alt="icon" width="65" height="65" />
-      <br>Fromspree
+      <br>Formspree
     </td>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="48" height="48" />
