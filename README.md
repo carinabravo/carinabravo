@@ -86,6 +86,7 @@ Estoy certificada en Testing QA Manual, realizando como proyecto final un review
 https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se generó un reporte completo de todas las incidencias encontradas.
 
 ## Testing QA Manual
+https://github.com/carinabravo/testing-tienda-locademia
 
 ✔ Casos de prueba.
 
