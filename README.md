@@ -8,8 +8,7 @@
 
 ✔ React Js
 
- Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación.
-
+Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación.
 
 ## Desarrollo Web
 https://centro-de-medicina-estetica.netlify.app
@@ -36,7 +35,6 @@ https://centro-de-medicina-estetica.netlify.app
 
 ✔ Git
 
-
 ## JavaScript
 https://salon-de-eventos.netlify.app
 
@@ -54,7 +52,6 @@ https://salon-de-eventos.netlify.app
 
 ✔ Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
 
-
 ## React Js
 https://tienda-de-arte.netlify.app
 
@@ -65,7 +62,6 @@ https://tienda-de-arte.netlify.app
 ✔ Aplicación del manejo de rutas utilizando Firebase.
 
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
-
 
 ## Pomodoro timer - Proyecto extra
 https://pomodoro-timer-24.netlify.app
@@ -90,7 +86,6 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
 ✔ Branding (diseño de marca).
 
-
 Estoy certificada en Testing QA Manual, realizando como proyecto final un review de la siguiente página web: 
 https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se generó un reporte completo de todas las incidencias encontradas.
 
@@ -106,7 +101,6 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Investigación de API.
 
-
 ### 💻 Conocimientos y aptitudes en Testing:
 
 ✔ Testing en software.
@@ -115,9 +109,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Test en la web, mobile, API.
 
-
 ## 👩🏻‍💻 Tecnologías y Herramientas
-
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
