@@ -88,15 +88,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 ## Testing QA Manual
 https://github.com/carinabravo/testing-tienda-locademia
 
-✔ Casos de prueba.
-
-✔ Reportes de bugs.
-
-✔ Reportes de pruebas.
-
-✔ Pruebas de stress - App utilizada: Lighthouse.
-
-✔ Investigación de API.
+✔ Casos de prueba. ✔ Reportes de bugs. ✔ Reportes de pruebas. ✔ Pruebas de stress - App utilizada: Lighthouse. ✔ Investigación de API.
 
 ### 💻 Conocimientos y aptitudes en Testing:
 
