@@ -100,11 +100,11 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ### 💻 Conocimientos y aptitudes en Testing:
 
-✔ Testing en software.
+✔ Pruebas de software.
 
 ✔ Ejecución de pruebas.
 
-✔ Test en la web, mobile, API.
+✔ Pruebas desktop, mobile, API.
 
 ## 👩🏻‍💻 Tecnologías y Herramientas
 
