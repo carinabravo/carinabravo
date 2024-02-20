@@ -94,9 +94,16 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ✔ Pruebas de software.
 
-✔ Ejecución de pruebas.
+✔ Casos y ejecución de pruebas.
 
 ✔ Pruebas desktop, mobile, API.
+
+✔ Microsoft Excel y gráficos.
+
+✔ Elaboración de informes y reportes.
+
+✔ Uso de herramientas.
+
 
 ## 👩🏻‍💻 Tecnologías y Herramientas
 
