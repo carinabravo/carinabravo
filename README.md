@@ -1,10 +1,8 @@
 # ¡Bienvenido/a 👋 a mi perfil profesional!   
 
-Estoy certificada en la carrera de Desarrollo Frontend React, la cual se encuentra conformada por tres cursos especializados en: 
+Estoy certificada en la carrera de Desarrollo Frontend React, la cual se encuentra conformada por tres cursos, cada uno de ellos con sus correspondientes certificaciones y acompañados de un proyecto final, los mismos se detallan a continuación:
 
 ✔ Desarrollo Web  ✔ JavaScript  ✔ React Js  
-
-Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación.
 
 ## Desarrollo Web
 https://centro-de-medicina-estetica.netlify.app
