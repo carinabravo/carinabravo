@@ -2,11 +2,7 @@
 
  Estoy certificada en la carrera de Desarrollo Frontend React, la cual se encuentra conformada por tres cursos especializados en:
 
-✔ Desarrollo Web
-
-✔ JavaScript 
-
-✔ React Js
+✔ Desarrollo Web  ✔ JavaScript  ✔ React Js
 
 Cada uno con sus correspondientes certificaciones y acompañados de un proyecto final, de los cuales se detallan a continuación.
 
