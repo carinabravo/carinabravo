@@ -139,7 +139,7 @@ https://github.com/carinabravo/testing-tienda-locademia
       <br>Material UI
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/b99d3746-6541-4119-97ab-847818239299" alt="icon" width="48" height="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
