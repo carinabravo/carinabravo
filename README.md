@@ -110,7 +110,7 @@ https://github.com/carinabravo/testing-tienda-locademia
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
     <tr>
-    <td align="center"  width="96" heigth="296">
+    <td align="center"  width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/dc5b859d-f2cd-425f-87ff-6006fec640c3" alt="icon" width="48" height="48"/>
       <br>Mockflow
     </td>
@@ -139,11 +139,11 @@ https://github.com/carinabravo/testing-tienda-locademia
       <br>Material UI
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
       <br>React
     </td>
     </tr>
