@@ -195,23 +195,23 @@ https://github.com/carinabravo/testing-tienda-locademia
             </tr>
   <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="icon" width="48" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="icon" width="48" height="48" />
       <br>Trello
              </td>
  <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="icon" width="48" height="45" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="icon" width="48" height="48" />
       <br>Jira
              </td>
 <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/ba2bb9a5-0f0e-4e9b-807e-681965062732" alt="icon" width="48" height="40" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/ba2bb9a5-0f0e-4e9b-807e-681965062732" alt="icon" width="48" height="48" />
       <br>JMeter
              </td>
  <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="icon" width="48" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="icon" width="48" height="48" />
       <br>Selenium
              </td>
 <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1306296a-1fa9-4aca-8a57-7d8319949039" alt="icon" width="48" height="45" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1306296a-1fa9-4aca-8a57-7d8319949039" alt="icon" width="48" height="48" />
       <br>SQL
              </td>
   </tr>
