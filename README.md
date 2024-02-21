@@ -123,7 +123,7 @@ https://github.com/carinabravo/testing-tienda-locademia
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" alt="icon" width="48" height="48" alt="Sass" />
+        <img src="https://skillicons.dev/icons?i=sass" alt="icon" width="48" height="48"/>
       <br>Sass
     </td>
     <td align="center"  width="96">
@@ -147,13 +147,13 @@ https://github.com/carinabravo/testing-tienda-locademia
       <br>React
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="48" height="48" />
       <br>Vite
     </td>
       </tr>
   <tr>
       <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/73e7ddd2-515a-4535-b6f8-32aa5f9958d5" alt="icon" width="65" height="65" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/73e7ddd2-515a-4535-b6f8-32aa5f9958d5" alt="icon" width="48" height="48" />
       <br>Formspree
     </td>
   <td align="center" width="96">
@@ -165,7 +165,7 @@ https://github.com/carinabravo/testing-tienda-locademia
       <br>VsCode
              </td>
      <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/d80ad35f-f94e-4b6a-8c24-b51bba4e27ab" alt="icon" width="48" height="48"" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/d80ad35f-f94e-4b6a-8c24-b51bba4e27ab" alt="icon" width="48" height="48" />
       <br>Prettier
              </td>
     <td align="center" width="96"> 
@@ -222,7 +222,6 @@ https://github.com/carinabravo/testing-tienda-locademia
    <td align="center">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/411b99c9-f8fd-445f-a0bd-1ad8d4f7a0c4"/>
     </td>
-
 </div>
 
 ## 👩🏻‍💻 Valores personales y ética de trabajo
