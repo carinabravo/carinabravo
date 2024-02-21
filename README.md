@@ -110,7 +110,7 @@ https://github.com/carinabravo/testing-tienda-locademia
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
     <tr>
-    <td align="center"  width="96">
+    <td align="center"  width="98">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/dc5b859d-f2cd-425f-87ff-6006fec640c3" alt="icon" width="48" height="48"/>
       <br>Mockflow
     </td>
@@ -184,12 +184,12 @@ https://github.com/carinabravo/testing-tienda-locademia
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/9c32d02f-ef06-4083-9faf-49a0debbd2eb" alt="icon"  width="48" height="48" />
       <br>Behance
              </td>
+    </tr>
+  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman"  alt="icon" width="48" height="48" />
       <br>Postman
              </td>
-                 </tr>
-  <tr>
  <td align="center" width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/314233d0-fbd1-4558-a0dd-7a3a17e52910" alt="icon" width="48" height="48" />
       <br>Lighthouse
