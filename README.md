@@ -135,7 +135,7 @@ https://github.com/carinabravo/testing-tienda-locademia
       <br>Talwind
     </td>
 <td align="center"  width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/b2c6db1f-67e3-4510-a757-249adecbaf60" alt="icon" width="48" height="48" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/b2c6db1f-67e3-4510-a757-249adecbaf60" alt="icon" width="50" height="50" />
       <br>Material UI
     </td>
     <td align="center" width="96">
@@ -143,7 +143,7 @@ https://github.com/carinabravo/testing-tienda-locademia
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
       <br>React
     </td>
     </tr>
