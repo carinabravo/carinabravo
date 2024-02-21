@@ -94,7 +94,7 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ✔ Pruebas de software.
 
-✔ Casos y ejecución de pruebas.
+✔ Caso y ejecución de prueba.
 
 ✔ Pruebas desktop, mobile, API.
 
