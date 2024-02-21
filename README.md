@@ -187,16 +187,12 @@ https://github.com/carinabravo/testing-tienda-locademia
         <img src="https://skillicons.dev/icons?i=postman"  alt="icon" width="48" height="48" />
       <br>Postman
              </td>
-<td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/ba2bb9a5-0f0e-4e9b-807e-681965062732" alt="icon" width="48" height="48" />
-      <br>JMeter
-             </td>
-        </tr>
-  <tr>
  <td align="center" width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/314233d0-fbd1-4558-a0dd-7a3a17e52910" alt="icon" width="48" height="48" />
       <br>Lighthouse
              </td>
+            </tr>
+  <tr>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="icon" width="48" height="48" />
       <br>Trello
@@ -204,6 +200,10 @@ https://github.com/carinabravo/testing-tienda-locademia
  <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="icon" width="48" height="48" />
       <br>Jira
+             </td>
+<td align="center" width="96">
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/ba2bb9a5-0f0e-4e9b-807e-681965062732" alt="icon" width="48" height="48" />
+      <br>JMeter
              </td>
  <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="icon" width="48" height="48" />
