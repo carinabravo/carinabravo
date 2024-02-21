@@ -146,12 +146,12 @@ https://github.com/carinabravo/testing-tienda-locademia
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
+    </tr>
+  <tr>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="48" height="48" />
       <br>Vite
     </td>
-      </tr>
-  <tr>
       <td align="center" width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/73e7ddd2-515a-4535-b6f8-32aa5f9958d5" alt="icon" width="48" height="48" />
       <br>Formspree
@@ -188,12 +188,12 @@ https://github.com/carinabravo/testing-tienda-locademia
         <img src="https://skillicons.dev/icons?i=postman"  alt="icon" width="48" height="48" />
       <br>Postman
              </td>
+                 </tr>
+  <tr>
  <td align="center" width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/314233d0-fbd1-4558-a0dd-7a3a17e52910" alt="icon" width="48" height="48" />
       <br>Lighthouse
              </td>
-            </tr>
-  <tr>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="icon" width="48" height="48" />
       <br>Trello
