@@ -110,7 +110,7 @@ https://github.com/carinabravo/testing-tienda-locademia
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
     <tr>
-    <td align="center"  width="96" heigth="96">
+    <td align="center"  width="100" heigth="100">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/dc5b859d-f2cd-425f-87ff-6006fec640c3" alt="icon" width="48" height="48"/>
       <br>Mockflow
     </td>
