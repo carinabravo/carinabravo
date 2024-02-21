@@ -108,13 +108,13 @@ https://github.com/carinabravo/testing-tienda-locademia
 ## 👩🏻‍💻 Tecnologías y Herramientas
 
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
- <td align="center"  width="96">
+    <table align="center">
+    <tr>
+    <td align="center"  width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/dc5b859d-f2cd-425f-87ff-6006fec640c3" alt="icon" width="48" height="48"/>
       <br>Mockflow
     </td>
-   <td align="center"  width="96">
+    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" alt="icon" width="48" height="48"/>
       <br>HTML5
     </td>
@@ -217,11 +217,11 @@ https://github.com/carinabravo/testing-tienda-locademia
   </tr>
 </table>
 <br><br>
-  </div>
   <div style="display: flex; align-items: flex-start; align: center">
    <td align="center">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/411b99c9-f8fd-445f-a0bd-1ad8d4f7a0c4"/>
     </td>
+ </div>
 </div>
 
 ## 👩🏻‍💻 Valores personales y ética de trabajo
