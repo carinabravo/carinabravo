@@ -203,11 +203,11 @@ https://github.com/carinabravo/testing-tienda-locademia
       <br>Jira
      </td>
 <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/ba2bb9a5-0f0e-4e9b-807e-681965062732" alt="icon"width="48" height="48" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/ba2bb9a5-0f0e-4e9b-807e-681965062732" alt="icon"width="45" height="45" />
       <br>JMeter
     </td>
  <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="icon" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="icon" width="45" height="45" />
       <br>Selenium
     </td>
 <td align="center" width="96">
