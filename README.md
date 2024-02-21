@@ -194,7 +194,7 @@ https://github.com/carinabravo/testing-tienda-locademia
              </td>
             </tr>
   <tr>
-      <td align="center" width="96">
+      <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="icon" width="48" height="45" />
       <br>Trello
              </td>
