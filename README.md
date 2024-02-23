@@ -104,7 +104,7 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ✔ Uso de herramientas.
 
-# Cursos extras:
+# Cursos extras
 
 ## Performance testing con JMeter + BlazeMeter
 
@@ -241,7 +241,7 @@ https://github.com/carinabravo/testing-tienda-locademia
  </div>
 
 
-## 👩🏻‍💻 Valores personales y ética de trabajo
+# 👩🏻‍💻 Valores personales y ética de trabajo
 
  ✔ Relación de trabajo basada en la confianza y el respeto mutuos.
 
