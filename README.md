@@ -223,7 +223,7 @@ https://github.com/carinabravo/testing-tienda-locademia
       <br>JMeter
     </td>
  <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="icon" width="45" height="45" />
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/47cba1a2-6798-4095-b527-05ba329319d6" alt="icon" width="45" height="45" />
       <br>Selenium
     </td>
 <td align="center" width="96">
