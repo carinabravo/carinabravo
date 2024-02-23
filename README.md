@@ -104,6 +104,22 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ✔ Uso de herramientas.
 
+# Cursos extras:
+
+## Performance testing con JMeter + BlazeMeter
+
+✔ Pruebas Performance o Pruebas de Rendimiento
+
+✔ Fiddler
+
+✔ JMeter
+
+✔ BlazeMeter
+
+
+
+
+
 
 ## 👩🏻‍💻 Tecnologías y Herramientas
 
