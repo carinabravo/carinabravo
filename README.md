@@ -104,7 +104,7 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ✔ Uso de herramientas.
 
-# Cursos extras
+# 👩🏻‍💻 Cursos extras
 
 ## Performance testing con JMeter + BlazeMeter
 
