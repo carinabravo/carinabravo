@@ -155,7 +155,7 @@ https://github.com/carinabravo/testing-tienda-locademia
       <br>Material UI
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1b9ca435-7666-46d3-aae9-06f088706e15" alt="icon" width="45" height="45" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="icon" width="45" height="45" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
