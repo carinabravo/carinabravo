@@ -116,7 +116,7 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ✔ BlazeMeter
 
-## Fundamentos de SCRUM
+## Fundamentos de Scrum
 
 ✔ Comprensión de Scrum y la filosofía ágil.
 
