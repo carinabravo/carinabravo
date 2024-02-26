@@ -108,7 +108,7 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ## Performance testing con JMeter + BlazeMeter
 
-✔ Pruebas Performance o Pruebas de Rendimiento
+✔ Pruebas Performance o Pruebas de Rendimiento.
 
 ✔ Fiddler
 
@@ -118,13 +118,13 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ## Fundamentos de SCRUM
 
-✔ Comprensión de Scrum y la filosofía ágil
+✔ Comprensión de Scrum y la filosofía ágil.
 
-✔ Conocimiento de roles y responsabilidades
+✔ Conocimiento de roles y responsabilidades.
 
-✔ Trabajo en equipos multifuncionales y autogestionados
+✔ Trabajo en equipos multifuncionales y autogestionados.
 
-✔ Adaptación y aprendizaje continuo
+✔ Adaptación y aprendizaje continuo.
 
 # 👩🏻‍💻 Tecnologías y Herramientas
 
