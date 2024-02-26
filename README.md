@@ -139,7 +139,7 @@ https://github.com/carinabravo/testing-tienda-locademia
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/844bacd29bef5706e975b954e993324a2a756e976be14ae21d69c045077fdf30/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" alt="icon" width="48" height="48"/>
+        <img src="https://camo.githubusercontent.com/844bacd29bef5706e975b954e993324a2a756e976be14ae21d69c045077fdf30/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" alt="icon" width="55" height="55"/>
       <br>Sass
     </td>
     <td align="center"  width="96">
