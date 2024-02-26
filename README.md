@@ -126,6 +126,8 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ✔ Adaptación y aprendizaje continuo.
 
+✔ Habilidades de autogestión y toma de decisiones.
+
 # 👩🏻‍💻 Tecnologías y Herramientas
 
 <div style="display: flex; align-items: flex-start; align: center">
