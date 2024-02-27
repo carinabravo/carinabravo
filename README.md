@@ -241,7 +241,7 @@ https://github.com/carinabravo/testing-tienda-locademia
 </div>
   <div style="display: flex; align-items: flex-start; align: center">
    <td align="center">
-        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/912a1d1a-704b-45b0-93d1-8b22917d2449"/>
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1b46a2f6-0931-4a25-b9ce-a71e7efc987f"/>
     </td>
  </div>
 
