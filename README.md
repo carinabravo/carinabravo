@@ -5,11 +5,13 @@ Estoy certificada en la carrera de Desarrollo Frontend React, la cual se encuent
 ✔ Desarrollo Web  ✔ JavaScript  ✔ React Js  
 
 Cada uno de ellos con sus correspondientes certificaciones y acompañados de un proyecto final. 
+
  <div style="display: flex; align-items: flex-start; align: center">
    <td align="center">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1b46a2f6-0931-4a25-b9ce-a71e7efc987f"/>
     </td>
  </div>
+ 
 ## Desarrollo Web
 https://centro-de-medicina-estetica.netlify.app
 
