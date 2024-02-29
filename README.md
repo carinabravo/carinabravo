@@ -126,7 +126,7 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ✔ Adaptación y aprendizaje continuo.
 
-# Automatización de Escenarios de Aceptación
+## Automatización de Escenarios de Aceptación
 
 ✔ Técnicas avanzadas
 
