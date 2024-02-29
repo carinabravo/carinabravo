@@ -128,7 +128,11 @@ https://github.com/carinabravo/testing-tienda-locademia
 
 ## Automatización de Escenarios de Aceptación
 
-✔ Técnicas avanzadas
+✔ Capacidad para diseñar casos de prueba efectivos.
+
+✔ Gestión del tiempo y organización.
+
+✔ Comunicación efectiva.
 
 # 👩🏻‍💻 Tecnologías y Herramientas
 
