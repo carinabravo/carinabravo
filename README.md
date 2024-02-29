@@ -64,11 +64,11 @@ https://pomodoro-timer-24.netlify.app
 
 ✔ Aplicación web.
 
-Estoy certificada en Photoshop e Illustrator, realizando como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: 
-https://www.behance.net/carinabravo 
-
 ## Photoshop e Illustrator 
 https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
+
+Estoy certificada en Photoshop e Illustrator, realizando como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: 
+https://www.behance.net/carinabravo 
 
 ### 💻 Conocimientos y aptitudes en Photoshop e Illustrator:
 
@@ -82,11 +82,11 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
 ✔ Branding (diseño de marca).
 
-Estoy certificada en Testing QA Manual, realizando como proyecto final un review de la siguiente página web: 
-https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se generó un reporte completo de todas las incidencias encontradas.
-
 ## Testing QA Manual
 https://github.com/carinabravo/testing-tienda-locademia
+
+Estoy certificada en Testing QA Manual, realizando como proyecto final un review de la siguiente página web: 
+https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se generó un reporte completo de todas las incidencias encontradas.
 
 ✔ Casos de prueba ✔ Reportes de bugs ✔ Reportes de pruebas ✔ Pruebas de stress - App utilizada: Lighthouse ✔ Investigación de API
 
