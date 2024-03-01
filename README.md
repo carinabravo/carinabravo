@@ -107,6 +107,8 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 # 👩🏻‍💻 Cursos extras
 
 ## Performance testing con JMeter + BlazeMeter
+	https://a.blazemeter.com/app/executive-summary/index.html?master_id=71799196&selectedTimeMeasure=milliseconds#/
+ 
 
 ✔ Pruebas Performance o Pruebas de Rendimiento.
 
