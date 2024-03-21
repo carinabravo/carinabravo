@@ -134,6 +134,34 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Comunicación efectiva.
 
+## SQL - gestor de Base de Datos MYSQL 
+
+✔ Mostrar-Crear-Eliminar Bases de Datos
+
+✔ Mostrar-Crear-Eliminar Tablas
+
+✔ Cargar Registros 
+
+✔ Agregar valor a Tablas
+
+✔  Tipos de Datos
+
+✔ Funciones
+
+✔ Indices
+
+✔ Alter Table
+
+✔ Join
+
+✔ Subconsultas
+
+✔ Vistas
+
+✔ Procedimientos Almacenados
+
+✔ Disparadores (TRIGGERS)
+
 # 👩🏻‍💻 Tecnologías y Herramientas
 
 <div style="display: flex; align-items: flex-start; align: center">
