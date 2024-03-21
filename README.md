@@ -156,11 +156,9 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Subconsultas
 
-✔ Vistas
+✔ Vistas y Triggers
 
-✔ Procedimientos Almacenados
-
-✔ Disparadores TRIGGERS
+✔ Funciones y Procedimientos Almacenados
 
 # 👩🏻‍💻 Tecnologías y Herramientas
 
