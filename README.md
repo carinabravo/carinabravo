@@ -134,7 +134,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Comunicación efectiva.
 
-## SQL - gestor de Base de Datos MYSQL 
+## SQL - Gestor de Base de Datos MYSQL 
 
 ✔ Mostrar-Crear-Eliminar Bases de Datos
 
