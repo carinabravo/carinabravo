@@ -160,7 +160,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Procedimientos Almacenados
 
-✔ Disparadores (TRIGGERS)
+✔ Disparadores TRIGGERS
 
 # 👩🏻‍💻 Tecnologías y Herramientas
 
