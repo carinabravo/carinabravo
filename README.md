@@ -276,7 +276,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
       <br>SQL
     </td>
    <td align="center" width="96">
-    <img src="https://github.com/carinabravo/carinabravo/assets/54654136/643ee2e8-237e-4575-a02e-c7b309ad24da" alt="icon" width="48" height="48" />
+    <img src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png" alt="icon" width="48" height="48" />
       <br>MySQL
     </td>
   </tr>
