@@ -92,17 +92,19 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ### 💻 Conocimientos y aptitudes en Testing:
 
-✔ Pruebas de software.
+✔ Elaboración de plan para pruebas de software.
 
-✔ Caso y ejecución de prueba.
+✔ Elaboración y ejecución de casos de prueba.
 
-✔ Pruebas desktop, mobile, API.
+✔ Pruebas aplicadas a desktop, mobile y API.
 
-✔ Microsoft Excel y gráficos.
+✔ Elaboración de gráficos.
 
 ✔ Elaboración de informes y reportes.
 
 ✔ Uso de herramientas.
+
+✔ Microsoft Excel - Word.
 
 # 👩🏻‍💻 Cursos extras
 
