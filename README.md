@@ -162,6 +162,16 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Funciones y Procedimientos Almacenados
 
+# 👩🏻‍💻 Idiomas
+
+## Inglés - Aprendizaje de lengua extranjera
+
+✔ escritura.
+
+✔ expresión oral.
+
+✔ Comprensión auditiva.
+
 # 👩🏻‍💻 Tecnologías y Herramientas
 
 <div style="display: flex; align-items: flex-start; align: center">
