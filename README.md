@@ -276,7 +276,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
       <br>SQL
     </td>
    <td align="center" width="96">
-    <img src="https://camo.githubusercontent.com/69fa8ed185f6026de241b4a3eb05855be4660cbc2d36f01b9e9b64e32e0472da/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="icon" width="48" height="48" />
+    <img src="https://github.com/carinabravo/carinabravo/assets/54654136/643ee2e8-237e-4575-a02e-c7b309ad24da" alt="icon" width="48" height="48" />
       <br>MySQL
     </td>
   </tr>
