@@ -270,7 +270,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
       <br>SQL
     </td>
    <td align="center" width="96">
-    <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1306296a-1fa9-4aca-8a57-7d8319949039" alt="icon" width="48" height="48" />
+    <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Excel_15.png" alt="icon" width="48" height="48" />
       <br>Excel
     </td>
   </tr>
