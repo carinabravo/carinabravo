@@ -1,4 +1,4 @@
-# ¡Bienvenido/a 👋🏻 a mi perfil profesional!
+# ¡Bienvenido/a 🫲🏻🫱🏻 a mi perfil profesional!
 
 Estoy certificada en la carrera de Desarrollo Frontend React, la cual se encuentra conformada por tres cursos especializados en:
 
