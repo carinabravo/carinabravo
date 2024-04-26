@@ -9,7 +9,7 @@ Cada uno de ellos con sus correspondientes certificaciones y acompañados de un 
 ## Desarrollo Web
 https://centro-de-medicina-estetica.netlify.app
 
-### 💻 Conocimientos y aptitudes en Desarrollo web:
+### 💻 Conocimientos y aptitudes en Desarrollo web
 
 ✔ Prototipado
 
@@ -34,7 +34,7 @@ https://centro-de-medicina-estetica.netlify.app
 ## JavaScript
 https://salon-de-eventos.netlify.app
 
-### 💻 Conocimientos y aptitudes en JavaScript:
+### 💻 Conocimientos y aptitudes en JavaScript
 
 ✔ Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
 
@@ -51,7 +51,7 @@ https://salon-de-eventos.netlify.app
 ## React Js
 https://tienda-de-arte.netlify.app
 
-### 💻 Conocimientos y aptitudes en React Js:
+### 💻 Conocimientos y aptitudes en React Js
 
 ✔ Programar por componentes mediante JavaScript, Js, ES6.
 
@@ -70,7 +70,7 @@ https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 Estoy certificada en Photoshop e Illustrator, realizando como proyecto final un Branding (diseño de marca), el cual se puede visualizar en: 
 https://www.behance.net/carinabravo 
 
-### 💻 Conocimientos y aptitudes en Photoshop e Illustrator:
+### 💻 Conocimientos y aptitudes en Photoshop e Illustrator
 
 ✔ Interpretar un manual de marca.
 
@@ -90,7 +90,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Casos de prueba ✔ Reportes de bugs ✔ Reportes de pruebas ✔ Pruebas de stress - App/Lighthouse ✔ Investigación de API
 
-### 💻 Conocimientos y aptitudes en Testing:
+### 💻 Conocimientos y aptitudes en Testing
 
 ✔ Elaboración de plan para pruebas de software.
 
