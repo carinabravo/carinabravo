@@ -266,6 +266,11 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
       <br>Selenium
     </td>
 <td align="center" width="96">
+ <td align="center" width="96">
+        <img src="https://github.com/carinabravo/carinabravo/assets/54654136/47cba1a2-6798-4095-b527-05ba329319d6" alt="icon" width="45" height="45" />
+      <br>Excel
+    </td>
+<td align="center" width="96">
         <img src="https://github.com/carinabravo/carinabravo/assets/54654136/1306296a-1fa9-4aca-8a57-7d8319949039" alt="icon" width="48" height="48" />
       <br>SQL
     </td>
