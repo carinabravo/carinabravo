@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 Trabajo
 
-Actualmente estoy trabajando como Tester QA para el grupo Liberty Lion SRL 
+Actualmente me desempeño como Tester QA para el grupo Liberty Lion SRL 
 
 ## 👩🏻‍💻 Estudios
 
