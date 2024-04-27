@@ -1,5 +1,11 @@
 # ¡Hola! Bienvenido/a 👋🏻 a mi perfil
 
+## 👩🏻‍💻 Trabajo
+
+Actualmente estoy trabajando como Tester QA para el grupo Liberty Lion SRL 
+
+## 👩🏻‍💻 Estudios
+
 Estoy certificada en la carrera de Desarrollo Frontend React, la cual se encuentra conformada por tres cursos especializados en
 
 ✔ Desarrollo Web  ✔ JavaScript  ✔ React Js  
