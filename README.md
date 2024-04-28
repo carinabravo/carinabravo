@@ -4,7 +4,7 @@
 
 Actualmente me desempeño como Tester QA para el grupo Liberty Lion SRL 
 
-# 👩🏻‍🎓 Estudios
+# 📚 Estudios
 
 Estoy certificada en la carrera de Desarrollo Frontend React, la cual se encuentra conformada por tres cursos especializados en
 
