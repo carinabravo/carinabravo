@@ -12,7 +12,7 @@ Estoy certificada en la carrera de Desarrollo Frontend React, la cual se encuent
 
 Cada uno de ellos con sus correspondientes certificaciones y acompañados de un proyecto final. 
  
-## Desarrollo Web
+### Desarrollo Web
 https://centro-de-medicina-estetica.netlify.app
 
 #### 💻 Conocimientos y aptitudes en Desarrollo web
