@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 Trabajo
 
-## 🪲 Testing
+## Testing
 
 Actualmente me desempeño como QA en el desarrollo de una aplicación web de gestión de RH para el grupo Liberty Lion SRL 
 
@@ -172,7 +172,9 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 # 🗣 Idiomas
 
-## Inglés - Aprendizaje de lengua extranjera
+## Inglés 
+
+Aprendizaje de lengua extranjera
 
 ✔ Escritura.
 
