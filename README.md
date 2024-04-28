@@ -180,7 +180,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Comprensión auditiva.
 
-# 👩🏻‍💻 Tecnologías y Herramientas
+# 🌐 Tecnologías y Herramientas
 
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
@@ -308,7 +308,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
  </div>
 
 
-# 👩🏻‍💻 Valores personales y ética de trabajo
+# ⚖️ Valores personales y ética de trabajo
 
  ✔ Relación de trabajo basada en la confianza y el respeto mutuos.
 
