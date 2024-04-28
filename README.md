@@ -4,7 +4,7 @@
 
 ## 🪲 Testing
 
-Actualmente me desempeño como Tester QA para el grupo Liberty Lion SRL 
+Actualmente me desempeño como QA en el desarrollo de una aplicación web de gestión de RH para el grupo Liberty Lion SRL 
 
 # 👩🏻‍💻 Estudios
 
