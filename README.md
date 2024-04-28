@@ -1,6 +1,6 @@
 # ¡Hola! Bienvenido/a 👋🏻 a mi perfil
 
-# 💼 Trabajo
+# 👩🏻‍💻 Trabajo
 
 Actualmente me desempeño como Tester QA para el grupo Liberty Lion SRL 
 
