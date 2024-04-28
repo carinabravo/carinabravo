@@ -114,7 +114,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Microsoft Excel - Word.
 
-# 👩🏻‍💻 Cursos extras
+# 📚 Cursos extras
 
 ## Performance testing con JMeter + BlazeMeter
 
