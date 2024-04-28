@@ -15,7 +15,7 @@ Cada uno de ellos con sus correspondientes certificaciones y acompañados de un 
 ## Desarrollo Web
 https://centro-de-medicina-estetica.netlify.app
 
-### 💻 Conocimientos y aptitudes en Desarrollo web
+#### 💻 Conocimientos y aptitudes en Desarrollo web
 
 ✔ Prototipado
 
@@ -37,10 +37,10 @@ https://centro-de-medicina-estetica.netlify.app
 
 ✔ Git
 
-## JavaScript
+### JavaScript
 https://salon-de-eventos.netlify.app
 
-### 💻 Conocimientos y aptitudes en JavaScript
+#### 💻 Conocimientos y aptitudes en JavaScript
 
 ✔ Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
 
@@ -54,10 +54,10 @@ https://salon-de-eventos.netlify.app
 
 ✔ Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
 
-## React Js
+### React Js
 https://tienda-de-arte.netlify.app
 
-### 💻 Conocimientos y aptitudes en React Js
+#### 💻 Conocimientos y aptitudes en React Js
 
 ✔ Programar por componentes mediante JavaScript, Js, ES6.
 
@@ -65,18 +65,18 @@ https://tienda-de-arte.netlify.app
 
 ✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
 
-## Pomodoro timer - Proyecto extra
+### Pomodoro timer - Proyecto extra
 https://pomodoro-timer-24.netlify.app
 
 ✔ Aplicación web.
 
-## Photoshop e Illustrator 
+### Photoshop e Illustrator 
 https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
 
 Estoy certificada en Photoshop e Illustrator, realizando como proyecto final un Branding (diseño de marca), el cual se puede visualizar en
 https://www.behance.net/carinabravo 
 
-### 💻 Conocimientos y aptitudes en Photoshop e Illustrator
+#### 💻 Conocimientos y aptitudes en Photoshop e Illustrator
 
 ✔ Interpretar un manual de marca.
 
@@ -88,7 +88,7 @@ https://www.behance.net/carinabravo
 
 ✔ Branding (diseño de marca).
 
-## Testing QA Manual
+### Testing QA Manual
 https://github.com/carinabravo/testing-tienda-locademia
 
 Estoy certificada en Testing QA Manual, realizando como proyecto final un review de la siguiente página web
@@ -96,7 +96,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Casos de prueba ✔ Reportes de bugs ✔ Reportes de pruebas ✔ Pruebas de stress - Lighthouse ✔ Investigación de API
 
-### 💻 Conocimientos y aptitudes en Testing
+#### 💻 Conocimientos y aptitudes en Testing
 
 ✔ Elaboración de plan para pruebas de software.
 
@@ -112,9 +112,9 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Microsoft Excel - Word.
 
-# 👩🏻‍💻 Cursos extras
+## 👩🏻‍💻 Cursos extras
 
-## Performance testing con JMeter + BlazeMeter
+### Performance testing con JMeter + BlazeMeter
 
 ✔ Pruebas Performance o Pruebas de Rendimiento.
 
@@ -124,7 +124,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ BlazeMeter
 
-## Fundamentos de Scrum
+### Fundamentos de Scrum
 
 ✔ Comprensión de Scrum y la filosofía ágil.
 
@@ -134,7 +134,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Adaptación y aprendizaje continuo.
 
-## Automatización de Escenarios de Aceptación
+### Automatización de Escenarios de Aceptación
 
 ✔ Capacidad para diseñar casos de prueba efectivos.
 
@@ -142,7 +142,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Comunicación efectiva.
 
-## SQL - Gestor de Base de Datos MYSQL 
+### SQL - Gestor de Base de Datos MYSQL 
 
 ✔ Mostrar-Crear-Eliminar Bases de Datos
 
@@ -178,7 +178,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Comprensión auditiva.
 
-# 👩🏻‍💻 Tecnologías y Herramientas
+## 👩🏻‍💻 Tecnologías y Herramientas
 
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
@@ -306,7 +306,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
  </div>
 
 
-# 👩🏻‍💻 Valores personales y ética de trabajo
+## 👩🏻‍💻 Valores personales y ética de trabajo
 
  ✔ Relación de trabajo basada en la confianza y el respeto mutuos.
 
@@ -314,7 +314,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
  ✔ Aprender nuevas tecnologías y herramientas para ampliar mis habilidades.
   
-# 📲 Contacto laboral 
+## 📲 Contacto laboral 
 <p align="left">
 <a href="https://www.linkedin.com/in/carina-bravo/" target="blank"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/9a4d14bb-8ff0-48ca-9224-20b9f11dde1c" height="59" width="59"/><a/>
   </p>
