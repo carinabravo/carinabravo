@@ -6,7 +6,7 @@
 
 Actualmente me desempeño como QA en el desarrollo de una aplicación web de gestión de RH para el grupo Liberty Lion SRL 
 
-# 🖥️ Estudios
+# 💻 Estudios
 
 Estoy certificada en la carrera de Desarrollo Frontend React, la cual se encuentra conformada por tres cursos especializados en
 
