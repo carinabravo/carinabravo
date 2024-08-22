@@ -192,7 +192,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Cómo utilizar las API en tus aplicaciones.
 
-![Postman - Postman API Fundamentals Student Expert - 2024-08-21 (1)](https://github.com/user-attachments/assets/f4d7cbd6-45fc-4aad-a8c7-d033cceb483d)
+![1](https://github.com/user-attachments/assets/73d528ab-5235-4bd6-b8e1-7b355396c1a8)
 
 
 # 🌐 Tecnologías y Herramientas
