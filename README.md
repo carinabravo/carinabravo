@@ -194,6 +194,7 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ![1](https://github.com/user-attachments/assets/73d528ab-5235-4bd6-b8e1-7b355396c1a8)
 
+![2](https://github.com/user-attachments/assets/6eb2b53d-6050-4cee-b9ee-57769df93ab6)
 
 # 🌐 Tecnologías y Herramientas
 
