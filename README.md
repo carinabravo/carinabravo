@@ -1,103 +1,121 @@
-¡Hola! Bienvenido/a 👋🏻 a mi perfil
-👩🏻‍💻 Trabajo
+# ¡Hola! Bienvenido/a 👋🏻 a mi perfil
+
+## 👩🏻‍💻 Trabajo
+
 Actualmente me desempeño como QA Tester en el desarrollo de una aplicación web de gestión de RH para el grupo Liberty Lion SRL, donde gestiono la calidad del software y colaboro estrechamente con el equipo de desarrollo.
 
-👩🏻‍💻 Estudios
+## 👩🏻‍💻 Estudios
+
 Estoy certificada en Desarrollo Frontend con React, que incluye tres cursos especializados:
 
-✔ Desarrollo Web
-✔ JavaScript
-✔ React Js
+✔ Desarrollo Web  
+✔ JavaScript  
+✔ React Js  
 
 Cada curso incluye una certificación y un proyecto final.
 
-Desarrollo Web
-Ver proyecto
+## Desarrollo Web
+[Ver proyecto](https://centro-de-medicina-estetica.netlify.app)
 
-💻 Conocimientos y aptitudes en Desarrollo web
-✔ Prototipado
-✔ HTML5
-✔ Diseño de cuadrícula CSS
-✔ CSS Flexbox
-✔ SASS
-✔ Bootstrap
-✔ Alojamiento Web
-✔ Servicios de Hosting
+### 💻 Conocimientos y aptitudes en Desarrollo web
+
+✔ Prototipado  
+✔ HTML5  
+✔ Diseño de cuadrícula CSS  
+✔ CSS Flexbox  
+✔ SASS  
+✔ Bootstrap  
+✔ Alojamiento Web  
+✔ Servicios de Hosting  
 ✔ Git
 
-JavaScript
-Ver proyecto
+## JavaScript
+[Ver proyecto](https://salon-de-eventos.netlify.app)
 
-💻 Conocimientos y aptitudes en JavaScript
-✔ Sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
-✔ Creación de páginas y secciones web interactivas.
-✔ Almacenamiento de datos generados por el usuario.
-✔ Comunicación frontend-backend usando AJAX.
-✔ Aplicación de conocimientos a otras librerías y frameworks (React, Node, VueJS).
+### 💻 Conocimientos y aptitudes en JavaScript
+
+✔ Sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.  
+✔ Creación de páginas y secciones web interactivas.  
+✔ Almacenamiento de datos generados por el usuario.  
+✔ Comunicación frontend-backend usando AJAX.  
+✔ Aplicación de conocimientos a otras librerías y frameworks (React, Node, VueJS).  
 ✔ Comprensión de paradigmas y patrones de programación.
 
-React Js
-Ver proyecto
+## React Js
+[Ver proyecto](https://tienda-de-arte.netlify.app)
 
-💻 Conocimientos y aptitudes en React Js
-✔ Programación con componentes usando JavaScript ES6 y React.
-✔ Manejo de rutas con Firebase.
-✔ Utilización del virtual DOM en React.
+### 💻 Conocimientos y aptitudes en React Js
 
-Pomodoro Timer - Proyecto Extra
-Ver proyecto
+✔ Programación con componentes usando JavaScript ES6 y React.  
+✔ Manejo de rutas con Firebase.  
+✔ Utilización del virtual DOM en React.  
 
-Photoshop e Illustrator
-Ver proyecto en Behance
+### Pomodoro Timer - Proyecto Extra
+[Ver proyecto](https://pomodoro-timer-24.netlify.app)
 
-Estoy certificada en Photoshop e Illustrator, con un proyecto final de branding que puedes ver en mi perfil de Behance.
+## Photoshop e Illustrator
+[Ver proyecto en Behance](https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031)
 
-💻 Conocimientos y aptitudes en Photoshop e Illustrator
-✔ Interpretación de manuales de marca.
-✔ Diseño digital avanzado.
-✔ Edición, composición y corrección fotográfica.
-✔ Diseño de logotipos.
+Estoy certificada en Photoshop e Illustrator, con un proyecto final de branding que puedes ver en [mi perfil de Behance](https://www.behance.net/carinabravo).
+
+### 💻 Conocimientos y aptitudes en Photoshop e Illustrator
+
+✔ Interpretación de manuales de marca.  
+✔ Diseño digital avanzado.  
+✔ Edición, composición y corrección fotográfica.  
+✔ Diseño de logotipos.  
 ✔ Branding.
 
-Testing QA Manual
-Ver proyecto en GitHub
+## Testing QA Manual
+[Ver proyecto en GitHub](https://github.com/carinabravo/testing-tienda-locademia)
 
-Estoy certificada en Testing QA Manual y he realizado un review exhaustivo del sitio web Locademia para desktop y mobile, generando un reporte completo de incidencias.
+Estoy certificada en Testing QA Manual y he realizado un review exhaustivo del sitio web [Locademia](https://locademia.racingclub.com.ar/) para desktop y mobile, generando un reporte completo de incidencias.
 
-💻 Conocimientos y aptitudes en Testing
-✔ Planificación de pruebas de software.
-✔ Elaboración y ejecución de casos de prueba.
-✔ Pruebas en desktop, mobile y API.
-✔ Creación de informes y reportes.
+### 💻 Conocimientos y aptitudes en Testing
+
+✔ Planificación de pruebas de software.  
+✔ Elaboración y ejecución de casos de prueba.  
+✔ Pruebas en desktop, mobile y API.  
+✔ Creación de informes y reportes.  
 ✔ Uso de herramientas como Microsoft Excel y Word.
 
-👩🏻‍💻 Cursos Extras | Certificaciones
-Performance Testing con JMeter + BlazeMeter
-✔ Pruebas de rendimiento.
+## 👩🏻‍💻 Cursos Extras | Certificaciones
+
+### Performance Testing con JMeter + BlazeMeter
+
+✔ Pruebas de rendimiento.  
 ✔ Uso de Fiddler, JMeter y BlazeMeter.
 
-Fundamentos de Scrum
-✔ Comprensión de Scrum y filosofía ágil.
-✔ Conocimiento de roles y responsabilidades.
+### Fundamentos de Scrum
+
+✔ Comprensión de Scrum y filosofía ágil.  
+✔ Conocimiento de roles y responsabilidades.  
 ✔ Trabajo en equipos multifuncionales.
 
-Automatización de Escenarios de Aceptación
-✔ Diseño de casos de prueba efectivos.
+### Automatización de Escenarios de Aceptación
+
+✔ Diseño de casos de prueba efectivos.  
 ✔ Gestión del tiempo y comunicación.
 
-SQL - Gestor de Base de Datos MySQL
-✔ Creación y gestión de bases de datos y tablas.
+### SQL - Gestor de Base de Datos MySQL
+
+✔ Creación y gestión de bases de datos y tablas.  
 ✔ Manipulación de registros, índices y procedimientos almacenados.
 
-Postman - Fundamentos de la API
-✔ Uso de Postman para trabajar con APIs.
+### Postman - Fundamentos de la API
+
+✔ Uso de Postman para trabajar con APIs.  
 ✔ Realización de solicitudes GET, POST, PATCH y DELETE.
 
-🗣 Idiomas
-Inglés
+![1](https://github.com/user-attachments/assets/73d528ab-5235-4bd6-b8e1-7b355396c1a8)
+
+## 🗣 Idiomas
+
+### Inglés
+
 ✔ Nivel A1-B2
 
-# 🌐 Tecnologías y Herramientas
+## 🌐 Tecnologías y Herramientas
 
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
@@ -224,18 +242,17 @@ Inglés
     </td>
  </div>
 
-⚖️ Valores personales y ética de trabajo
-✔ Trabajo basado en confianza y respeto mutuo.
-✔ Colaboración en equipo y disfrute del trabajo conjunto.
+## ⚖️ Valores personales y ética de trabajo
+
+✔ Trabajo basado en confianza y respeto mutuo.  
+✔ Colaboración en equipo y disfrute del trabajo conjunto.  
 ✔ Aprendizaje continuo de nuevas tecnologías y herramientas.
 
-📲 Contacto Laboral
+## 📲 Contacto Laboral
+
 <p align="left">
 <a href="https://www.linkedin.com/in/carina-bravo/" target="blank"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/9a4d14bb-8ff0-48ca-9224-20b9f11dde1c" height="59" width="59"/></a>
 </p>
-
-
-
 
 
 
