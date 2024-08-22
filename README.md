@@ -174,13 +174,8 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ## Inglés 
 
-Aprendizaje de lengua extranjera
+✔ Aprendizaje de lengua extranjera  A1-A2 | B1-B2
 
-✔ Escritura.
-
-✔ Expresión oral.
-
-✔ Comprensión auditiva.
 
 # 🌐 Tecnologías y Herramientas
 
