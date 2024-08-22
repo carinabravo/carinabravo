@@ -1,198 +1,101 @@
-# ¡Hola! Bienvenido/a 👋🏻 a mi perfil
+¡Hola! Bienvenido/a 👋🏻 a mi perfil
+👩🏻‍💻 Trabajo
+Actualmente me desempeño como QA Tester en el desarrollo de una aplicación web de gestión de RH para el grupo Liberty Lion SRL, donde gestiono la calidad del software y colaboro estrechamente con el equipo de desarrollo.
 
-# 👩🏻‍💻 Trabajo
+👩🏻‍💻 Estudios
+Estoy certificada en Desarrollo Frontend con React, que incluye tres cursos especializados:
 
-## Testing
+✔ Desarrollo Web
+✔ JavaScript
+✔ React Js
 
-Actualmente me desempeño como QA Tester en el desarrollo de una aplicación web de gestión de RH para el grupo Liberty Lion SRL 
+Cada curso incluye una certificación y un proyecto final.
 
-# 👩🏻‍💻 Estudios
+Desarrollo Web
+Ver proyecto
 
-Estoy certificada en la carrera de Desarrollo Frontend React, la cual se encuentra conformada por tres cursos especializados en
-
-✔ Desarrollo Web  ✔ JavaScript  ✔ React Js  
-
-Cada uno de ellos con sus correspondientes certificaciones y acompañados de un proyecto final. 
- 
-## Desarrollo Web
-https://centro-de-medicina-estetica.netlify.app
-
-### 💻 Conocimientos y aptitudes en Desarrollo web
-
+💻 Conocimientos y aptitudes en Desarrollo web
 ✔ Prototipado
-
-✔ Html 5
-
-✔ Diseño de cuadricula CSS
-
-✔ Hoja de estilos de Cascada
-
-✔ Css Flexbox
-
-✔ Lenguaje SASS
-
+✔ HTML5
+✔ Diseño de cuadrícula CSS
+✔ CSS Flexbox
+✔ SASS
 ✔ Bootstrap
-
 ✔ Alojamiento Web
-
 ✔ Servicios de Hosting
-
 ✔ Git
 
-## JavaScript
-https://salon-de-eventos.netlify.app
+JavaScript
+Ver proyecto
 
-### 💻 Conocimientos y aptitudes en JavaScript
+💻 Conocimientos y aptitudes en JavaScript
+✔ Sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
+✔ Creación de páginas y secciones web interactivas.
+✔ Almacenamiento de datos generados por el usuario.
+✔ Comunicación frontend-backend usando AJAX.
+✔ Aplicación de conocimientos a otras librerías y frameworks (React, Node, VueJS).
+✔ Comprensión de paradigmas y patrones de programación.
 
-✔ Distinguir sintaxis y casos de aplicación de instrucciones, estructuras y métodos de JavaScript.
+React Js
+Ver proyecto
 
-✔ Crear paginas y/o secciones web interactivas con JavaScript.
+💻 Conocimientos y aptitudes en React Js
+✔ Programación con componentes usando JavaScript ES6 y React.
+✔ Manejo de rutas con Firebase.
+✔ Utilización del virtual DOM en React.
 
-✔ Determinar medio y formato de almacenamiento de datos generados por el usuario.
+Pomodoro Timer - Proyecto Extra
+Ver proyecto
 
-✔ Construir soluciones cuyo frontend se comunica con el backend usando AJAX.
+Photoshop e Illustrator
+Ver proyecto en Behance
 
-✔ Aplicar los conocimientos del lenguaje a otras librerías y frameworks JavaScript (React, Node, VueJS, etc).
+Estoy certificada en Photoshop e Illustrator, con un proyecto final de branding que puedes ver en mi perfil de Behance.
 
-✔ Comprender paradigmas y patrones de programación empleandos en el desarrollo web.
-
-## React Js
-https://tienda-de-arte.netlify.app
-
-### 💻 Conocimientos y aptitudes en React Js
-
-✔ Programar por componentes mediante JavaScript, Js, ES6.
-
-✔ Aplicación del manejo de rutas utilizando Firebase.
-
-✔ Comprender la utilización del virtual DOM mediante los desarrollos de React Js.
-
-### Pomodoro timer - Proyecto extra
-https://pomodoro-timer-24.netlify.app
-
-✔ Aplicación web.
-
-## Photoshop e Illustrator 
-https://www.behance.net/gallery/172924185/Constructora-CEM/modules/977110031
-
-Estoy certificada en Photoshop e Illustrator, realizando como proyecto final un Branding (diseño de marca), el cual se puede visualizar en
-https://www.behance.net/carinabravo 
-
-### 💻 Conocimientos y aptitudes en Photoshop e Illustrator
-
-✔ Interpretar un manual de marca.
-
-✔ Conceptos básicos y avanzados de diseño digital.
-
+💻 Conocimientos y aptitudes en Photoshop e Illustrator
+✔ Interpretación de manuales de marca.
+✔ Diseño digital avanzado.
 ✔ Edición, composición y corrección fotográfica.
-
 ✔ Diseño de logotipos.
+✔ Branding.
 
-✔ Branding (diseño de marca).
+Testing QA Manual
+Ver proyecto en GitHub
 
-## Testing QA Manual
-https://github.com/carinabravo/testing-tienda-locademia
+Estoy certificada en Testing QA Manual y he realizado un review exhaustivo del sitio web Locademia para desktop y mobile, generando un reporte completo de incidencias.
 
-Estoy certificada en Testing QA Manual, realizando como proyecto final un review de la siguiente página web
-https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se generó un reporte completo de todas las incidencias encontradas.
-
-✔ Casos de prueba ✔ Reportes de bugs ✔ Reportes de pruebas ✔ Pruebas de stress - Lighthouse ✔ Investigación de API
-
-### 💻 Conocimientos y aptitudes en Testing
-
-✔ Elaboración de plan para pruebas de software.
-
+💻 Conocimientos y aptitudes en Testing
+✔ Planificación de pruebas de software.
 ✔ Elaboración y ejecución de casos de prueba.
+✔ Pruebas en desktop, mobile y API.
+✔ Creación de informes y reportes.
+✔ Uso de herramientas como Microsoft Excel y Word.
 
-✔ Pruebas aplicadas a desktop, mobile y API.
+👩🏻‍💻 Cursos Extras | Certificaciones
+Performance Testing con JMeter + BlazeMeter
+✔ Pruebas de rendimiento.
+✔ Uso de Fiddler, JMeter y BlazeMeter.
 
-✔ Elaboración de gráficos.
-
-✔ Elaboración de informes y reportes.
-
-✔ Uso de herramientas.
-
-✔ Microsoft Excel - Word.
-
-# 👩🏻‍💻 Cursos extras | Certificaciones 
-
-## Performance testing con JMeter + BlazeMeter
-
-✔ Pruebas Performance o Pruebas de Rendimiento.
-
-✔ Fiddler
-
-✔ JMeter
-
-✔ BlazeMeter
-
-## Fundamentos de Scrum
-
-✔ Comprensión de Scrum y la filosofía ágil.
-
+Fundamentos de Scrum
+✔ Comprensión de Scrum y filosofía ágil.
 ✔ Conocimiento de roles y responsabilidades.
+✔ Trabajo en equipos multifuncionales.
 
-✔ Trabajo en equipos multifuncionales y autogestionados.
+Automatización de Escenarios de Aceptación
+✔ Diseño de casos de prueba efectivos.
+✔ Gestión del tiempo y comunicación.
 
-✔ Adaptación y aprendizaje continuo.
+SQL - Gestor de Base de Datos MySQL
+✔ Creación y gestión de bases de datos y tablas.
+✔ Manipulación de registros, índices y procedimientos almacenados.
 
-## Automatización de Escenarios de Aceptación
+Postman - Fundamentos de la API
+✔ Uso de Postman para trabajar con APIs.
+✔ Realización de solicitudes GET, POST, PATCH y DELETE.
 
-✔ Capacidad para diseñar casos de prueba efectivos.
-
-✔ Gestión del tiempo y organización.
-
-✔ Comunicación efectiva.
-
-## SQL - Gestor de Base de Datos MYSQL 
-
-✔ Mostrar-Crear-Eliminar Bases de Datos
-
-✔ Mostrar-Crear-Eliminar Tablas
-
-✔ Cargar Registros 
-
-✔ Agregar valor a Tablas
-
-✔  Tipos de Datos
-
-✔ Funciones
-
-✔ Indices
-
-✔ Alter Table
-
-✔ Join
-
-✔ Subconsultas
-
-✔ Vistas y Triggers
-
-✔ Funciones y Procedimientos Almacenados
-
-## Postman - Fundamentos de la API 
-
-✔ Qué son las API y cuál es su importancia en el desarrollo de software moderno.
-
-✔ Cómo utilizar Postman para trabajar con API
-
-✔ Realizar solicitudes GET, POST, PATCH y DELETE
-
-✔ Parámetros de consulta, cuerpos, encabezados, códigos de respuesta.
-
-✔ Scripting básico.
-
-✔ Autorización de clave API
-
-✔ Cómo utilizar las API en tus aplicaciones.
-
-![1](https://github.com/user-attachments/assets/73d528ab-5235-4bd6-b8e1-7b355396c1a8)
-
-# 🗣 Idiomas
-
-## Inglés 
-
-✔ Aprendizaje de lengua extranjera  A1-A2 | B1-B2
+🗣 Idiomas
+Inglés
+✔ Nivel A1-B2
 
 # 🌐 Tecnologías y Herramientas
 
@@ -321,20 +224,15 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
     </td>
  </div>
 
+⚖️ Valores personales y ética de trabajo
+✔ Trabajo basado en confianza y respeto mutuo.
+✔ Colaboración en equipo y disfrute del trabajo conjunto.
+✔ Aprendizaje continuo de nuevas tecnologías y herramientas.
 
-# ⚖️ Valores personales y ética de trabajo
-
- ✔ Relación de trabajo basada en la confianza y el respeto mutuos.
-
- ✔ Trabajar en equipo y disfrutar colaborando con otros para lograr un objetivo común.
-
- ✔ Aprender nuevas tecnologías y herramientas para ampliar mis habilidades.
-  
-# 📲 Contacto laboral 
+📲 Contacto Laboral
 <p align="left">
-<a href="https://www.linkedin.com/in/carina-bravo/" target="blank"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/9a4d14bb-8ff0-48ca-9224-20b9f11dde1c" height="59" width="59"/><a/>
-  </p>
-
+<a href="https://www.linkedin.com/in/carina-bravo/" target="blank"><img align="center" src="https://github.com/carinabravo/carinabravo/assets/54654136/9a4d14bb-8ff0-48ca-9224-20b9f11dde1c" height="59" width="59"/></a>
+</p>
 
 
 
