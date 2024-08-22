@@ -176,6 +176,24 @@ https://locademia.racingclub.com.ar/ en versión desktop y mobile, donde se gene
 
 ✔ Aprendizaje de lengua extranjera  A1-A2 | B1-B2
 
+## Postman
+
+✔ Qué son las API y cuál es su importancia en el desarrollo de software moderno.
+
+✔ Cómo utilizar Postman para trabajar con API
+
+✔ Realizar solicitudes GET, POST, PATCH y DELETE
+
+✔ Parámetros de consulta, cuerpos, encabezados, códigos de respuesta.
+
+✔ Scripting básico.
+
+✔ Autorización de clave API
+
+✔ Cómo utilizar las API en tus aplicaciones.
+
+![Postman - Postman API Fundamentals Student Expert - 2024-08-21 (1)](https://github.com/user-attachments/assets/f4d7cbd6-45fc-4aad-a8c7-d033cceb483d)
+
 
 # 🌐 Tecnologías y Herramientas
 
