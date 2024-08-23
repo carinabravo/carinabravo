@@ -105,9 +105,7 @@ Estoy certificada en Testing QA Manual y he realizado un review exhaustivo del s
 ### Postman - Fundamentos de la API
 
 ✔ Solicitudes GET, POST, PATCH y DELETE.
-✔ Manejo de parámetros de consulta, cuerpos, encabezados y códigos de respuesta.
-✔ Desarrollo de scripting básico y autorización de clave API.
-✔ Aplicación de API en proyectos de software.
+
 
 
 
