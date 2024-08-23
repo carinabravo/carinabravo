@@ -77,7 +77,7 @@ Estoy certificada en Testing QA Manual y he realizado un review exhaustivo del s
 ✔ Elaboración y ejecución de casos de prueba.  
 ✔ Pruebas en desktop, mobile y API.  
 ✔ Creación de informes y reportes.  
-✔ Uso de herramientas como Excel, Postman, Swagger, Jira, Lighthouse.
+✔ Uso de herramientas como Excel, Postman, Jira, Lighthouse.
 
 ## 👩🏻‍💻 Cursos Extras | Certificaciones
 
