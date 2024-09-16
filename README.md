@@ -67,7 +67,7 @@ Estoy certificada en Photoshop e Illustrator, con un proyecto final de branding 
 ✔ Branding.
 
 ## Testing QA Manual
-[Ver proyecto en GitHub](https://github.com/carinabravo/testing-tienda-locademia)
+[Ver proyecto](https://github.com/carinabravo/testing-tienda-locademia)
 
 Estoy certificada en Testing QA Manual y he realizado un review exhaustivo del sitio web [Locademia](https://locademia.racingclub.com.ar/) para desktop y mobile, generando un reporte completo de incidencias.
 
@@ -110,6 +110,7 @@ Estoy certificada en Testing QA Manual y he realizado un review exhaustivo del s
 ✔ Aplicación de API en proyectos de software.                                                                               
 
 ![1](https://github.com/user-attachments/assets/73d528ab-5235-4bd6-b8e1-7b355396c1a8)
+
 [Ver certificación](https://api.badgr.io/public/assertions/aXhk9XyUSLS-gkpG6ubRTA?identity__email=carina.n.bravo%40gmail.com)
 
 ## 🗣 Idiomas
