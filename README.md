@@ -115,7 +115,7 @@ Estoy certificada en Testing QA Manual y he realizado un review exhaustivo del s
 
 ### Inglés
 
-✔ Nivel A1-B2
+✔ Nivel B2
 
 ## 🌐 Tecnologías y Herramientas
 
