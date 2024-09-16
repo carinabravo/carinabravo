@@ -111,7 +111,8 @@ Estoy certificada en Testing QA Manual y he realizado un review exhaustivo del s
 
 ![1](https://github.com/user-attachments/assets/73d528ab-5235-4bd6-b8e1-7b355396c1a8)
 
-[Ver certificación](https://api.badgr.io/public/assertions/aXhk9XyUSLS-gkpG6ubRTA?identity__email=carina.n.bravo%40gmail.com)
+[Ver certificación]
+(https://api.badgr.io/public/assertions/aXhk9XyUSLS-gkpG6ubRTA?identity__email=carina.n.bravo%40gmail.com)
 
 ## 🗣 Idiomas
 
