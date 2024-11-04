@@ -1,4 +1,4 @@
-# ¡Hola! Bienvenido/a 👋🏻 a mi perfil
+# ¡Hola! 👋🏻 Bienvenido/a a mi perfil
 
 ## 👩🏻‍💻 Trabajo
 
