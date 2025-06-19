@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 Trabajo
 
-Actualmente me desempeño como QA Tester en el desarrollo de una aplicación web de gestión de RH para el grupo Liberty Lion SRL, donde gestiono la calidad del software y colaboro estrechamente con el equipo de desarrollo. Además me desempeño como QA tester a tiempo parcial para la empresa Test IO
+Actualmente soy QA Tester para una aplicación web de gestión de RRHH en Liberty Lion SRL, y complemento mi experiencia como tester freelance en Test IO, donde realizo pruebas funcionales y exploratorias, reporto incidencias y valido la experiencia de usuario en proyectos de distintas industrias, asegurando la calidad de productos digitales internacionales.
 
 ## 👩🏻‍💻 Estudios
 
